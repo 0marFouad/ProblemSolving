@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="" />
+    <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,19 +18,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Add_One_To_Number/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/Noble_Integer/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="35" column="65" selection-start-line="35" selection-start-column="65" selection-end-line="35" selection-end-column="65" />
+            <state relative-caret-position="92">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Noble_Integer/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/Maximum_Unsorted_Subarray/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="470">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -52,6 +54,7 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Add_One_To_Number/Solution.java" />
         <option value="$PROJECT_DIR$/src/Noble_Integer/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Maximum_Unsorted_Subarray/Solution.java" />
       </list>
     </option>
   </component>
@@ -85,7 +88,7 @@
               <item name="ProblemSolving" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Noble_Integer" type="462c0819:PsiDirectoryNode" />
+              <item name="Maximum_Unsorted_Subarray" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,7 +208,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -218,6 +221,18 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Noble_Integer/Solution.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
@@ -244,7 +259,14 @@
     <entry file="file://$PROJECT_DIR$/src/Noble_Integer/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Maximum_Unsorted_Subarray/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
