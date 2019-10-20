@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Favorite_Genre/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Find_All_Anagrams_in_a_String/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Number_of_Islands/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rotate_Image/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuoraTask/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Three_Sum/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Longest_Palindrome/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Longest_Palindrome/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Longest_Palindrome/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Longest_Palindrome/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,25 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Rotate_Image/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/Three_Sum/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="50" column="8" lean-forward="true" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -51,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -102,6 +84,10 @@
         <option value="$PROJECT_DIR$/src/Number_of_Islands/Solution.java" />
         <option value="$PROJECT_DIR$/src/Rotate_Image/Solution.java" />
         <option value="$PROJECT_DIR$/src/Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Count_Primes/Solution.java" />
+        <option value="$PROJECT_DIR$/src/QuoraTask/Solution.java" />
+        <option value="$PROJECT_DIR$/src/3Sum/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Three_Sum/Solution.java" />
       </list>
     </option>
   </component>
@@ -117,6 +103,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,6 +116,18 @@
               <item name="ProblemSolving" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProblemSolving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Add_One_To_Number" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProblemSolving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Count_Primes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProblemSolving" type="b2602c69:ProjectViewProjectNode" />
@@ -163,8 +163,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Count_Primes.Solution" />
       <module name="ProblemSolving" />
@@ -198,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Find_All_Anagrams_in_a_String.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuoraTask.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Find_All_Anagrams_in_a_String.*" />
+          <option name="PATTERN" value="QuoraTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,25 +209,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rotate_Image.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Rotate_Image.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number_of_Islands.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Three_Sum.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Number_of_Islands.*" />
+          <option name="PATTERN" value="Three_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,19 +243,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +275,7 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18262313" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19147758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -292,8 +284,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -428,6 +420,24 @@
           <properties />
           <option name="timeStamp" value="72" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Count_Primes/Solution.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/QuoraTask/Solution.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Three_Sum/Solution.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -443,13 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="26" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Add_One_To_Number/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="35" column="65" selection-start-line="35" selection-start-column="65" selection-end-line="35" selection-end-column="65" />
         </state>
       </provider>
     </entry>
@@ -702,6 +705,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Rotate_Image/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -709,15 +724,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/Count_Primes/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="50" column="8" lean-forward="true" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="63" />
+        <state relative-caret-position="420">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QuoraTask/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" column="43" selection-end-line="72" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/3Sum/Sol.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/3Sum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Add_One_To_Number/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="65" selection-start-line="35" selection-start-column="65" selection-end-line="35" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Three_Sum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
