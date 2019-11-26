@@ -48,7 +48,7 @@ public class Solution {
                 return first.get(i-1);
             }
         }
-        return first.get(Math.min(first.size(),second.size()));
+        return first.get(Math.min(first.size()-1,second.size()-1));
     }
 
     public static void main(String[] args){
