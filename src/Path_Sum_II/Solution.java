@@ -4,6 +4,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Solution {
+
+    static class TreeNode{
+        int val;
+        TreeNode left;
+        TreeNode right;
+    }
+
     public List<List<Integer>> pathSum(TreeNode root, int sum) {
         if(root == null){
             return new ArrayList<>();
@@ -33,5 +40,9 @@ class Solution {
             return l;
         }
         return r;
+    }
+
+    public static void main(String[] args){
+        System.out.print("Omar");
     }
 }
