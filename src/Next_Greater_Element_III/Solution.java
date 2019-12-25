@@ -5,7 +5,7 @@ import java.util.Arrays;
 class Solution {
 
 
-    public String swap(String s, int i, int j){
+    public static String swap(String s, int i, int j){
         String ret = "";
         for(int k=0;k<s.length();k++){
             if(k == i){
@@ -19,7 +19,7 @@ class Solution {
         return ret;
     }
 
-    public boolean isThereNext(String n){
+    public static boolean isThereNext(String n){
         String num = n;
         for(int i=0;i<num.length()-1;i++){
             if(num.charAt(i) < num.charAt(i+1)){
@@ -29,7 +29,7 @@ class Solution {
         return false;
     }
 
-    public String replace(String s){
+    public static String replace(String s){
         char first = s.charAt(0);
         int idx = -1;
         char comp = first;
@@ -52,7 +52,7 @@ class Solution {
         return s.charAt(0) + String.valueOf(tempArray);
     }
 
-    public String nextGreaterElementS(String n) {
+    public static String nextGreaterElementS(String n) {
         int idx = -1;
         if(!isThereNext(n)){
             return "-1";
@@ -66,7 +66,7 @@ class Solution {
         return n.substring(0,idx) + replace(n.substring(idx));
     }
 
-    public int nextGreaterElement(int n) {
+    public static int nextGreaterElement(int n) {
         Long num = Long.parseLong(nextGreaterElementS(n+""));
         if(num > Integer.MAX_VALUE){
             return -1;
