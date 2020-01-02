@@ -1,4 +1,6 @@
 package Candy_Crush;
+import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Stack;
 
 public class Solution {
@@ -18,9 +20,8 @@ public class Solution {
         int i=0;
 
         //Keeping Memory of the previously removed characters
-        Stack<Character> prev_removed = new Stack<>();
-        prev_removed.push('0');
-
+        HashSet<Character> removed_map = new HashSet<>();
+        Stack<Character> removed_stack = new Stack<>();
 
         while(i < s.length()){
             st.push(s.charAt(i));
@@ -43,16 +44,18 @@ public class Solution {
                     while(i+1 < s.length() && s.charAt(i+1) == top){
                         i++;
                     }
-
+                    removed_map.add(top);
+                    removed_stack.add(top);
                     //Using the memory to avoid recurison
-                    while(i+1 < s.length() && s.charAt(i+1) == prev_removed.peek()){
-                        i++;
-                        if(i+1 < s.length() && s.charAt(i+1) != prev_removed.peek()){
-                            prev_removed.pop();
+                    while(i+1 < s.length() && removed_map.contains(s.charAt(i+1))){
+                        while(!removed_stack.empty() && removed_stack.peek() != s.charAt(i+1)){
+                            removed_map.remove(removed_stack.pop());
                         }
+                        i++;
                     }
-                    prev_removed.add(top);
-
+                }else{
+                    removed_map.clear();
+                    removed_stack.clear();
                 }
             }
             i++;
@@ -68,6 +71,6 @@ public class Solution {
     }
 
     public static void main(String[] args){
-        System.out.println(candy_crush("aaabbbacd"));
+        System.out.println(candy_crush("aaaabbbbaacccceerrrrwqaa"));
     }
 }
