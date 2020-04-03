@@ -71,6 +71,6 @@ public class Solution {
     }
 
     public static void main(String[] args){
-        System.out.println(candy_crush("aaaabbbbaacccceerrrrwqaa"));
+        System.out.println(candy_crush("aaaaabbbccccccccva"));
     }
 }
