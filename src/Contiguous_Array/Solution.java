@@ -1,18 +1,30 @@
 package Contiguous_Array;
 
+import java.util.HashMap;
+
 class Solution {
-    public static int findMaxLength(int[] nums) {
-        int mx=0;
-        int[] data = new int[2];
-        for(int i=0;i<nums.length;i++){
-            data[0] = data[1] = 0;
-            for(int j=i;j<nums.length;j++){
-                data[nums[j]]++;
-                if(data[0] == data[1]){
-                    mx = Math.max(mx,j-i+1);
-                }
+    public int findMaxLength(int[] nums) {
+        if(nums.length == 0){
+            return 0;
+        }
+        int[] arr = new int[nums.length];
+        int cur = 0;
+        int ans = 0;
+        HashMap<Integer, Integer> mp = new HashMap<>();
+        mp.put(0,-1);
+        for(int i=0;i<arr.length;i++){
+            if(nums[i] == 1){
+                cur++;
+            }else{
+                cur--;
+            }
+            arr[i] = cur;
+            if(mp.containsKey(cur)){
+                ans = Math.max(ans,i-mp.get(cur));
+            }else{
+                mp.put(cur,i);
             }
         }
-        return mx;
+        return ans;
     }
 }
