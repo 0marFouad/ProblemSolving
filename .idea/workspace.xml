@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Palindromic_Substrings/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Matrix_Block_Sum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Matrix_Block_Sum/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,12 +16,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Matrix_Block_Sum/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/Palindromic_Substrings/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="45" column="55" lean-forward="true" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+            <state relative-caret-position="357">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -53,8 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sqrt/Solution.java" />
-        <option value="$PROJECT_DIR$/src/Find_the_Duplicate_Number/Solution.java" />
         <option value="$PROJECT_DIR$/src/Merge_Sorted_Array/Solution.java" />
         <option value="$PROJECT_DIR$/src/Pascal_Triangle_I/Solution.java" />
         <option value="$PROJECT_DIR$/src/Lexicographical_Numbers/Solution.java" />
@@ -104,6 +102,8 @@
         <option value="$PROJECT_DIR$/src/Coin_Change/Solution.java" />
         <option value="$PROJECT_DIR$/src/Coin_Change_2/Solution.java" />
         <option value="$PROJECT_DIR$/src/Matrix_Block_Sum/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Minimum_Cost_Tree_From_Leaf_Values/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Palindromic_Substrings/Solution.java" />
       </list>
     </option>
   </component>
@@ -119,6 +119,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,7 +161,7 @@
               <item name="ProblemSolving" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Matrix_Block_Sum" type="462c0819:PsiDirectoryNode" />
+              <item name="Palindromic_Substrings" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProblemSolving" type="b2602c69:ProjectViewProjectNode" />
@@ -177,8 +179,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coin_Change_2.Solution" />
       <module name="ProblemSolving" />
@@ -225,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leftmost_Column_with_at_Least_a_One.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindromic_Substrings.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leftmost_Column_with_at_Least_a_One.*" />
+          <option name="PATTERN" value="Palindromic_Substrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Subarray_Sum_Equals_K.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Minimum_Cost_Tree_From_Leaf_Values.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Subarray_Sum_Equals_K.*" />
+          <option name="PATTERN" value="Minimum_Cost_Tree_From_Leaf_Values.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,18 +279,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (5)" />
+      <item itemvalue="Application.Solution (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +311,7 @@
     <frame x="0" y="25" width="1920" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20010673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2022412" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -320,7 +320,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994664" visible="true" weight="0.23920654" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" weight="0.23920654" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3570595" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -756,27 +756,16 @@
           <properties />
           <option name="timeStamp" value="171" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Minimum_Cost_Tree_From_Leaf_Values/Solution.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Flatten_a_Multilevel_Doubly_Linked_List/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reverse_Words_in_a_String/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Binary_Tree_Level_Order_Traversal/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1138,8 +1127,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Matrix_Block_Sum/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="45" column="55" lean-forward="true" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+        <state relative-caret-position="735">
+          <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Minimum_Cost_Tree_From_Leaf_Values/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/Palindromic_Substrings/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
         </state>
       </provider>
     </entry>
