@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class Solution {
     //Edit Commit Msg
     public static int mincostTickets(int[] days, int[] costs) {
+        System.out.println("Omar Fouad");
         Arrays.sort(days);
         int[] map = new int[days[days.length-1] + 1];
         map[0] = -1;
