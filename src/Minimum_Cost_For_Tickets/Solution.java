@@ -3,6 +3,7 @@ package Minimum_Cost_For_Tickets;
 import java.util.Arrays;
 
 public class Solution {
+    //Edit Commit Msg
     public static int mincostTickets(int[] days, int[] costs) {
         Arrays.sort(days);
         int[] map = new int[days[days.length-1] + 1];
