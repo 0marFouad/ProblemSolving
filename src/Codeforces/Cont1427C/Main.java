@@ -90,7 +90,6 @@ public class Main {
         int[] max_ans = new int[input.size()+1];
         for(int i=1;i<input.size();i++){
             Node from = input.get(i);
-            dp[i] = Integer.MIN_VALUE;
             for(int j=Math.max(0,i-2*r);j<i;j++){
                 Node to = input.get(j);
                 if(from.canReach(to)){
