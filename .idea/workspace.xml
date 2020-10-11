@@ -20,12 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Edu96A/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Edu96B/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Edu96C/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Good_Number/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Next_Round/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Presents/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Snow_Footprints/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Cont1427C/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Cont1427C/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Codeforces/Cont1427C/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/Cont1427C/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96A/Main$MyScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96A/Main$MyScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96A/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96A/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96B/Main$MyScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96B/Main$MyScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96B/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96B/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96C/Main$MyScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96C/Main$MyScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96C/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96C/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96D/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96D/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Edu96A/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/Edu96A/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +84,13 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Edu96B.Main" />
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Presents.Main" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.Edu96B.*" />
+          <option name="PATTERN" value="Codeforces.Presents.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Edu96D.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Good_Number.Main" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.Edu96D.*" />
+          <option name="PATTERN" value="Codeforces.Good_Number.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +112,11 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Cont1427C.Main" />
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Snow_Footprints.Main" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.Cont1427C.*" />
+          <option name="PATTERN" value="Codeforces.Snow_Footprints.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +138,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Edu96C.Main" />
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Next_Round.Main" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.Edu96C.*" />
+          <option name="PATTERN" value="Codeforces.Next_Round.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +164,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +194,7 @@
       <workItem from="1601919848344" duration="492000" />
       <workItem from="1602155917601" duration="3434000" />
       <workItem from="1602340619834" duration="25884000" />
-      <workItem from="1602404201004" duration="9171000" />
+      <workItem from="1602404201004" duration="14438000" />
     </task>
     <servers />
   </component>
@@ -214,38 +222,38 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="749" y="424" width="484" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/67.27.1853.1052@67.27.1853.1052" timestamp="1602156193699" />
-    <state width="1807" height="248" key="GridCell.Tab.0.bottom" timestamp="1602413902455">
+    <state width="1807" height="248" key="GridCell.Tab.0.bottom" timestamp="1602438940962">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1602413902455" />
-    <state width="1807" height="248" key="GridCell.Tab.0.center" timestamp="1602413902454">
+    <state width="1807" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1602438940962" />
+    <state width="1807" height="248" key="GridCell.Tab.0.center" timestamp="1602438940961">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1602413902454" />
-    <state width="1807" height="248" key="GridCell.Tab.0.left" timestamp="1602413902454">
+    <state width="1807" height="248" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1602438940961" />
+    <state width="1807" height="248" key="GridCell.Tab.0.left" timestamp="1602438940960">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1602413902454" />
-    <state width="1807" height="248" key="GridCell.Tab.0.right" timestamp="1602413902455">
+    <state width="1807" height="248" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1602438940960" />
+    <state width="1807" height="248" key="GridCell.Tab.0.right" timestamp="1602438940962">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1602413902455" />
-    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1602413902456">
+    <state width="1807" height="248" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1602438940962" />
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1602438943308">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1602413902456" />
-    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1602413902456">
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1602438943308" />
+    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1602438943306">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1602413902456" />
-    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1602413902456">
+    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1602438943306" />
+    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1602438943305">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1602413902456" />
-    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1602413902456">
+    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1602438943305" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1602438943307">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1602413902456" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1602438943307" />
     <state x="640" y="213" width="1016" height="738" key="SettingsEditor" timestamp="1602405161567">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -642,6 +650,21 @@
           <url>file://$PROJECT_DIR$/src/Codeforces/Edu96D/Main.java</url>
           <line>53</line>
           <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/Good_Number/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/Snow_Footprints/Main.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/Next_Round/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="209" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

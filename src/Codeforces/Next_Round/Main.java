@@ -1,44 +1,40 @@
-package Codeforces.Edu96A;
+package Codeforces.Next_Round;
 
-        import java.io.BufferedReader;
-        import java.io.IOException;
-        import java.io.InputStreamReader;
-        import java.util.StringTokenizer;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
 public class Main {
 
-    public static int[] solve(int n){
-        int[] res;
-        for(int i=0;i<=334;i++){
-            for(int j=0;j<=200;j++){
-                int k = (n - 3*i - 5*j)/7;
-                if(k < 0){
-                    continue;
-                }
-                if(3*i + 5*j + 7*k == n){
-                    res = new int[3];
-                    res[0] = i;
-                    res[1] = j;
-                    res[2] = k;
-                    return res;
-                }
-            }
-        }
-        return null;
-    }
 
     public static void main(String[] args){
         MyScanner s = new MyScanner();
-        int t = s.nextInt();
-        while(t-->0){
-            int n = s.nextInt();
-            int[] r = solve(n);
-            if(r == null){
-                System.out.println("-1");
-                continue;
-            }
-            System.out.println(r[0] + " " + r[1] + " " + r[2]);
+        int n = s.nextInt();
+        int k = s.nextInt();
+        int[] arr = new int[n];
+        for(int i=0;i<n;i++){
+            arr[i] = s.nextInt();
         }
+        int ans = k;
+        k--;
+        for(int j=k+1;j<n;j++){
+            if(arr[j]==arr[k]){
+                ans++;
+            }else{
+                break;
+            }
+        }
+        k = ans;
+        ans = 0;
+        for(int i=0;i<k;i++){
+            if(arr[i] > 0){
+                ans++;
+            }
+        }
+        System.out.println(ans);
+
+
     }
 
 
@@ -96,3 +92,5 @@ public class Main {
     }
 
 }
+
+
