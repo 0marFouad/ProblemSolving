@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Copy_Increase/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Minimum_Integer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Chess_Cheater/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/NonZero_Segments/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Amazing_Number/Main$MyScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Amazing_Number/Main$MyScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Amazing_Number/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Amazing_Number/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,26 +73,13 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Copy_Paste.Main" />
+      <option name="MAIN_CLASS_NAME" value="Codeforces.NonZero_Segments.Main" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.Copy_Paste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Two_Arrays.Main" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.Two_Arrays.*" />
+          <option name="PATTERN" value="Codeforces.NonZero_Segments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,6 +113,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Chess_Cheater.Main" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.Chess_Cheater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codeforces.Minimum_Integer.Main" />
       <module name="ProblemSolving" />
@@ -154,31 +152,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +199,8 @@
       <workItem from="1602404201004" duration="15138000" />
       <workItem from="1602608382495" duration="10165000" />
       <workItem from="1602690412143" duration="14403000" />
-      <workItem from="1602783665759" duration="3136000" />
+      <workItem from="1602783665759" duration="3260000" />
+      <workItem from="1602871485002" duration="5517000" />
     </task>
     <servers />
   </component>
@@ -219,6 +220,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="804" y="255" width="374" height="593" key="#com.intellij.ide.util.MemberChooser" timestamp="1602877444725">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="804" y="255" width="374" height="593" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1052@67.27.1853.1052" timestamp="1602877444725" />
     <state x="727" y="322" width="524" height="452" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1602156036605">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -227,42 +232,46 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="749" y="424" width="484" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/67.27.1853.1052@67.27.1853.1052" timestamp="1602156193699" />
-    <state width="1807" height="248" key="GridCell.Tab.0.bottom" timestamp="1602806845193">
+    <state width="1807" height="261" key="GridCell.Tab.0.bottom" timestamp="1602879521100">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1602806845193" />
-    <state width="1807" height="248" key="GridCell.Tab.0.center" timestamp="1602806845191">
+    <state width="1807" height="261" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1602879521100" />
+    <state width="1807" height="261" key="GridCell.Tab.0.center" timestamp="1602879521098">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1602806845191" />
-    <state width="1807" height="248" key="GridCell.Tab.0.left" timestamp="1602806845189">
+    <state width="1807" height="261" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1602879521098" />
+    <state width="1807" height="261" key="GridCell.Tab.0.left" timestamp="1602879521096">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1602806845189" />
-    <state width="1807" height="248" key="GridCell.Tab.0.right" timestamp="1602806845192">
+    <state width="1807" height="261" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1602879521096" />
+    <state width="1807" height="261" key="GridCell.Tab.0.right" timestamp="1602879521099">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1602806845192" />
-    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1602806837723">
+    <state width="1807" height="261" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1602879521099" />
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1602879244567">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1602806837723" />
-    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1602806837721">
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1602879244567" />
+    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1602879244565">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1602806837721" />
-    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1602806837719">
+    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1602879244565" />
+    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1602879244565">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1602806837719" />
-    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1602806837722">
+    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1602879244565" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1602879244567">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1602806837722" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1602879244567" />
     <state x="640" y="213" width="1016" height="738" key="SettingsEditor" timestamp="1602405161567">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="640" y="213" width="1016" height="738" key="SettingsEditor/67.27.1853.1052@67.27.1853.1052" timestamp="1602405161567" />
+    <state x="506" y="267" width="970" height="655" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602874794332">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="506" y="267" width="970" height="655" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.1853.1052@67.27.1853.1052" timestamp="1602874794332" />
     <state x="656" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1602362863929">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -696,6 +705,20 @@
           <line>14</line>
           <option name="timeStamp" value="227" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/Chess_Cheater/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/NonZero_Segments/Main.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="228" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
