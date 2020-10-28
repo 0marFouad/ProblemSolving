@@ -20,31 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/ABBB/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/ArrayRestoration/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/BeltedRooms/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/BookShelves/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/BoringApt/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/BoxIsPull/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/CircleColoring/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/CubeSorting/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/DecreaseSumOfDigits/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/DigitGames/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/DistrictConnections/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/DominantPiranha/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/FindingSasuki/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/FloorNumber/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/MinimumProduct/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/NewTechnique/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/PrimeSquare/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Reorder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/SubsetMex/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/SymmetricMatrix/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/TwoRoundDance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/World_Cup/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/XORwice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Years/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/YetAnother/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/DistanceAndAxis/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/MagicalSticks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/PermutationForgery/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/RemoveSmallest/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,13 +75,13 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.XORwice.Main" />
+      <option name="MAIN_CLASS_NAME" value="Codeforces.DistanceAndAxis.Main" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.XORwice.*" />
+          <option name="PATTERN" value="Codeforces.DistanceAndAxis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +90,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.CubeSorting.Main" />
+      <option name="MAIN_CLASS_NAME" value="Codeforces.RemoveSmallest.Main" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.CubeSorting.*" />
+          <option name="PATTERN" value="Codeforces.RemoveSmallest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,24 +103,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.DigitGames.Main" />
+      <option name="MAIN_CLASS_NAME" value="Codeforces.MagicalSticks.Main" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.DigitGames.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.CircleColoring.Main" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.CircleColoring.*" />
+          <option name="PATTERN" value="Codeforces.MagicalSticks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,6 +121,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Codeforces.SubsetMex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.PermutationForgery.Main" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.PermutationForgery.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,19 +244,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.Main (5)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +283,7 @@
       <workItem from="1603151573794" duration="7218000" />
       <workItem from="1603201954852" duration="15221000" />
       <workItem from="1603667366511" duration="10976000" />
-      <workItem from="1603793888025" duration="16115000" />
+      <workItem from="1603793888025" duration="21810000" />
     </task>
     <servers />
   </component>
@@ -336,42 +315,42 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="749" y="424" width="484" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/67.27.1853.1052@67.27.1853.1052" timestamp="1602156193699" />
-    <state width="429" height="506" key="DebuggerActiveHint" timestamp="1603688010454">
+    <state width="430" height="506" key="DebuggerActiveHint" timestamp="1603840034364">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="429" height="506" key="DebuggerActiveHint/67.27.1853.1052@67.27.1853.1052" timestamp="1603688010454" />
-    <state width="1807" height="269" key="GridCell.Tab.0.bottom" timestamp="1603839925422">
+    <state width="430" height="506" key="DebuggerActiveHint/67.27.1853.1052@67.27.1853.1052" timestamp="1603840034364" />
+    <state width="1807" height="269" key="GridCell.Tab.0.bottom" timestamp="1603850702706">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1603839925422" />
-    <state width="1807" height="269" key="GridCell.Tab.0.center" timestamp="1603839925421">
+    <state width="1807" height="269" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1603850702706" />
+    <state width="1807" height="269" key="GridCell.Tab.0.center" timestamp="1603850702705">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1603839925421" />
-    <state width="1807" height="269" key="GridCell.Tab.0.left" timestamp="1603839925421">
+    <state width="1807" height="269" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1603850702705" />
+    <state width="1807" height="269" key="GridCell.Tab.0.left" timestamp="1603850702704">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1603839925421" />
-    <state width="1807" height="269" key="GridCell.Tab.0.right" timestamp="1603839925421">
+    <state width="1807" height="269" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1603850702704" />
+    <state width="1807" height="269" key="GridCell.Tab.0.right" timestamp="1603850702705">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1603839925421" />
-    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1603839320814">
+    <state width="1807" height="269" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1603850702705" />
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1603850449589">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1603839320814" />
-    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1603839320814">
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1603850449589" />
+    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1603850449587">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1603839320814" />
-    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1603839320814">
+    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1603850449587" />
+    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1603850449587">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1603839320814" />
-    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1603839320814">
+    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1603850449587" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1603850449589">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1603839320814" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1603850449589" />
     <state x="640" y="213" width="1016" height="738" key="SettingsEditor" timestamp="1602405161567">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -895,8 +874,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Codeforces/SubsetMex/Main.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="275" />
+          <line>23</line>
+          <option name="timeStamp" value="278" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
