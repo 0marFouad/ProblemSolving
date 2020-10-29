@@ -20,11 +20,217 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/DistanceAndAxis/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/MagicalSticks/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/PermutationForgery/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/RemoveSmallest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/ABBB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/BadTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Barrels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/ChessCheater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/CircleColoring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/CopyIncrease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/CopyPaste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/CubeSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/DecreaseSumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/DigitGames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/DistanceAndAxis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/DistrictConnections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/DominantPiranha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Fence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/FindingSasuki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/FixYou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/FloorNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/GiftsFixing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/GoodNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/HardWorkPaparazzi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/JugglingLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/LCMProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/MagicalSticks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/MarketingScheme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/MinimumInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/MinimumProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/NewTechnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/NextRound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/NiceMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/NonZeroSegments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/NumberOfApartments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/NumbersOnWhiteboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/OmkarandInfinityClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/OmkarandPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/PermutationForgery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Presents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/PrimeSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/RainbowDash_Fluttershy_ChessColoring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/RemoveSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Reorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Sequence123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/SnowFootprints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Suborrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/SubsetMex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/SubstringRemovalGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/SymmetricMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/TwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/TwoRoundDance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/VanyaAndFence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/WorldCup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/XORwice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Years.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/ABBB/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/ABBB/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Amazing_Number/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Amazing_Number/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Anton_and_Danik/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Arena_Greed/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Arena_Greed/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/ArrayRestoration/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/ArrayRestoration/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Avoiding_Zero/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Bargain/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Bargain/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/BeltedRooms/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/BeltedRooms/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/BeltedRooms/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/BookShelves/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/BookShelves/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/BoringApt/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/BoringApt/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/BoxIsPull/Main$Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/BoxIsPull/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/BoxIsPull/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Chess_Cheater/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Chess_Cheater/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/CircleColoring/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/CircleColoring/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Cont1427C/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Cont1427C/Main$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Cont1427C/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Copy_Increase/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Copy_Increase/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Copy_Paste/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Copy_Paste/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/CubeSorting/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/CubeSorting/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/DecreaseSumOfDigits/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/DecreaseSumOfDigits/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/DigitGames/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/DigitGames/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/DistanceAndAxis/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/DistanceAndAxis/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/DistrictConnections/Main$Gang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/DistrictConnections/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/DistrictConnections/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/DominantPiranha/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/DominantPiranha/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96A/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96A/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96B/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96B/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96C/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Edu96C/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Fence/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Fence/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/FindingSasuki/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/FindingSasuki/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/FloorNumber/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/FloorNumber/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Good_Number/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Good_Number/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/MagicalSticks/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/MagicalSticks/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/MinimumProduct/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/MinimumProduct/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Minimum_Integer/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Minimum_Integer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/NewTechnique/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/NewTechnique/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Next_Round/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Next_Round/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Nice_Matrix/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Nice_Matrix/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/NonZero_Segments/Main$Interval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/NonZero_Segments/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/NonZero_Segments/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/PermutationForgery/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/PermutationForgery/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Presents/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Presents/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/PrimeSquare/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/PrimeSquare/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/RemoveSmallest/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/RemoveSmallest/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Reorder/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Reorder/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Sequence_123/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Snow_Footprints/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Snow_Footprints/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/SubsetMex/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/SubsetMex/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/SymmetricMatrix/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/SymmetricMatrix/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/TwoRoundDance/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/TwoRoundDance/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Two_Arrays/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Two_Arrays/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Vanya_and_Fence/Vanya_and_Fence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/World_Cup/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/World_Cup/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/XORwice/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/XORwice/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Years/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Years/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Years/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/YetAnother/Main$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/YetAnother/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/ABBB/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Amazing_Number/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/AmazingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Anton_and_Danik/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/AntonAndDanik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Arena_Greed/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/ArenaGreed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/ArrayRestoration/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/ArrayRestoration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Avoiding_Zero/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/AvoidingZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Bargain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/Bargain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/BeltedRooms/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/BeltedRooms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/BookShelves/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/Bookshelves.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/BoringApt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/BoringApt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/BoxIsPull/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/BoxIsPull.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Chess_Cheater/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/CircleColoring/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Cont1427C/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Copy_Increase/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Copy_Paste/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/CubeSorting/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/DecreaseSumOfDigits/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/DigitGames/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/DistanceAndAxis/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/DistrictConnections/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/DominantPiranha/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Edu96A/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Edu96B/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Edu96C/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Fence/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/FindingSasuki/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/FloorNumber/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Good_Number/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/MagicalSticks/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/MinimumProduct/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Minimum_Integer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/NewTechnique/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Next_Round/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Nice_Matrix/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/NonZero_Segments/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/PermutationForgery/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Presents/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/PrimeSquare/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/RemoveSmallest/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Reorder/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Sequence_123/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Snow_Footprints/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/SubsetMex/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/SymmetricMatrix/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/TwoRoundDance/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Two_Arrays/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Vanya_and_Fence/Vanya_and_Fence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/World_Cup/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/XORwice/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Years/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/YetAnother/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/YetAnother.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +263,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iT7g7yQ3Zzw88iu0njt8b9DYM8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -72,16 +281,17 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Codeforces" />
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.DistanceAndAxis.Main" />
+  <component name="RunManager" selected="Application.LCMProblem">
+    <configuration name="FixYou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.FixYou" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.DistanceAndAxis.*" />
+          <option name="PATTERN" value="Codeforces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,51 +299,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.RemoveSmallest.Main" />
+    <configuration name="LCMProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.LCMProblem" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.RemoveSmallest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.MagicalSticks.Main" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.MagicalSticks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.SubsetMex.Main" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.SubsetMex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.PermutationForgery.Main" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.PermutationForgery.*" />
+          <option name="PATTERN" value="Codeforces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,6 +403,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OmkarandInfinityClock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.OmkarandInfinityClock" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OmkarandPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.OmkarandPassword" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Suborrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Suborrays" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -244,19 +454,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (5)" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.OmkarandInfinityClock" />
+      <item itemvalue="Application.OmkarandPassword" />
+      <item itemvalue="Application.FixYou" />
+      <item itemvalue="Application.Suborrays" />
+      <item itemvalue="Application.LCMProblem" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.LCMProblem" />
+        <item itemvalue="Application.Suborrays" />
+        <item itemvalue="Application.FixYou" />
+        <item itemvalue="Application.OmkarandPassword" />
+        <item itemvalue="Application.OmkarandInfinityClock" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +493,9 @@
       <workItem from="1603151573794" duration="7218000" />
       <workItem from="1603201954852" duration="15221000" />
       <workItem from="1603667366511" duration="10976000" />
-      <workItem from="1603793888025" duration="21810000" />
+      <workItem from="1603793888025" duration="21986000" />
+      <workItem from="1603966340387" duration="11799000" />
+      <workItem from="1603995308372" duration="684000" />
     </task>
     <servers />
   </component>
@@ -302,6 +514,9 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="804" y="247" width="374" height="593" key="#com.intellij.ide.util.MemberChooser" timestamp="1603208967502">
       <screen x="67" y="27" width="1853" height="1052" />
@@ -311,6 +526,10 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="727" y="322" width="524" height="452" key="#com.intellij.ide.util.PackageChooserDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1602156036605" />
+    <state x="749" y="442" width="542" height="227" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603970201379">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="749" y="442" width="542" height="227" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1853.1052@67.27.1853.1052" timestamp="1603970201379" />
     <state x="749" y="424" width="484" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1602156193699">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -319,38 +538,38 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state width="430" height="506" key="DebuggerActiveHint/67.27.1853.1052@67.27.1853.1052" timestamp="1603840034364" />
-    <state width="1807" height="269" key="GridCell.Tab.0.bottom" timestamp="1603850702706">
+    <state width="1807" height="269" key="GridCell.Tab.0.bottom" timestamp="1603996174692">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1603850702706" />
-    <state width="1807" height="269" key="GridCell.Tab.0.center" timestamp="1603850702705">
+    <state width="1807" height="269" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1603996174692" />
+    <state width="1807" height="269" key="GridCell.Tab.0.center" timestamp="1603996174688">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1603850702705" />
-    <state width="1807" height="269" key="GridCell.Tab.0.left" timestamp="1603850702704">
+    <state width="1807" height="269" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1603996174688" />
+    <state width="1807" height="269" key="GridCell.Tab.0.left" timestamp="1603996174686">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1603850702704" />
-    <state width="1807" height="269" key="GridCell.Tab.0.right" timestamp="1603850702705">
+    <state width="1807" height="269" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1603996174686" />
+    <state width="1807" height="269" key="GridCell.Tab.0.right" timestamp="1603996174690">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1603850702705" />
-    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1603850449589">
+    <state width="1807" height="269" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1603996174690" />
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1603995996174">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1603850449589" />
-    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1603850449587">
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1603995996174" />
+    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1603995996173">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1603850449587" />
-    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1603850449587">
+    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1603995996173" />
+    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1603995996173">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1603850449587" />
-    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1603850449589">
+    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1603995996173" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1603995996174">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1603850449589" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1603995996174" />
     <state x="640" y="213" width="1016" height="738" key="SettingsEditor" timestamp="1602405161567">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -793,11 +1012,6 @@
           <option name="timeStamp" value="227" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Codeforces/Chess_Cheater/Main.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="229" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Codeforces/NonZero_Segments/Main.java</url>
           <line>61</line>
           <option name="timeStamp" value="231" />
@@ -868,14 +1082,29 @@
           <option name="timeStamp" value="272" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Codeforces/CircleColoring/Main.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="274" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Codeforces/SubsetMex/Main.java</url>
           <line>23</line>
           <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/SubstringRemovalGame/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/RainbowDash_Fluttershy_ChessColoring.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/OmkarandInfinityClock.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/LCMProblem.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="283" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
