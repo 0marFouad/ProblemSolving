@@ -3,62 +3,33 @@ package Codeforces;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
+import java.util.HashMap;
+import java.util.StringTokenizer;
 
-public class Years {
-
-    public static class Point implements Comparable<Point>{
-        boolean isStart;
-        long num;
-        public Point(boolean isStart, long num){
-            this.isStart = isStart;
-            this.num = num;
-        }
-
-        @Override
-        public int compareTo(Point o) {
-            if(o.num != this.num){
-                return Long.compare(num,o.num);
-            }else{
-                if(isStart){
-                    return 1;
-                }else{
-                    return -1;
-                }
-            }
-        }
-    }
+public class Multiplyby2divideby6 {
 
     public static void main(String[] args){
         MyScanner sc = new MyScanner();
         int t = sc.nextInt();
-        long[][] arr = new long[t][2];
-        PriorityQueue<Point> pq = new PriorityQueue<>();
-        for(int i=0;i<t;i++){
-            for(int j=0;j<2;j++){
-                arr[i][j] = sc.nextInt();
-                pq.add(new Point(j%2==0,arr[i][j]));
+        while(t-->0) {
+            long n = sc.nextLong();
+            int threes = 0;
+            int twos = 0;
+            while(n%3 == 0){
+                n = n/3;
+                threes++;
             }
-        }
-        int ans = 0;
-        int max = Integer.MIN_VALUE;
-        long year = -1;
-        while(!pq.isEmpty()){
-            Point p = pq.poll();
-            if(p.isStart){
-                ans++;
-                if(max<ans){
-                    max = ans;
-                    year = p.num;
-                }
+            while(n%2 == 0){
+                n = n/2;
+                twos++;
+            }
+            if(twos > threes || n != 1){
+                System.out.println(-1);
             }else{
-                ans--;
+                System.out.println(2*threes - twos);
             }
         }
-        System.out.println(year + " " + max);
     }
-
-
 
 
 
@@ -111,5 +82,3 @@ public class Years {
     }
 
 }
-
-

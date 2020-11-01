@@ -3,62 +3,51 @@ package Codeforces;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Stack;
+import java.util.StringTokenizer;
 
-public class Years {
-
-    public static class Point implements Comparable<Point>{
-        boolean isStart;
-        long num;
-        public Point(boolean isStart, long num){
-            this.isStart = isStart;
-            this.num = num;
-        }
-
-        @Override
-        public int compareTo(Point o) {
-            if(o.num != this.num){
-                return Long.compare(num,o.num);
-            }else{
-                if(isStart){
-                    return 1;
-                }else{
-                    return -1;
-                }
-            }
-        }
-    }
-
+public class Game01 {
     public static void main(String[] args){
         MyScanner sc = new MyScanner();
         int t = sc.nextInt();
-        long[][] arr = new long[t][2];
-        PriorityQueue<Point> pq = new PriorityQueue<>();
-        for(int i=0;i<t;i++){
-            for(int j=0;j<2;j++){
-                arr[i][j] = sc.nextInt();
-                pq.add(new Point(j%2==0,arr[i][j]));
-            }
-        }
-        int ans = 0;
-        int max = Integer.MIN_VALUE;
-        long year = -1;
-        while(!pq.isEmpty()){
-            Point p = pq.poll();
-            if(p.isStart){
-                ans++;
-                if(max<ans){
-                    max = ans;
-                    year = p.num;
+        while(t-->0) {
+            String s = sc.next();
+            Stack<Integer> q = new Stack<>();
+            for(int i=0;i<s.length();i+=0){
+                int cnt = 0;
+                char c = s.charAt(i);
+                while(i<s.length() && s.charAt(i) == c){
+                    cnt++;
+                    i++;
                 }
+                if(cnt!=0){
+                    q.add(cnt);
+                }
+            }
+            int ans = 0;
+            while(q.size() >= 2){
+                int n1 = q.pop();
+                int n2 = q.pop();
+                ans += Math.min(n1,n2);
+                if(n1 != n2){
+                    if(n1 < n2){
+                        q.add(Math.max(n1,n2) - Math.min(n1,n2));
+                    }else{
+                        if(q.size()>0){
+                            q.add(q.pop() + Math.max(n1,n2) - Math.min(n1,n2));
+                        }
+                    }
+                }
+            }
+            if(ans%2 == 0){
+                System.out.println("NET");
             }else{
-                ans--;
+                System.out.println("DA");
             }
         }
-        System.out.println(year + " " + max);
     }
-
-
 
 
 
@@ -109,7 +98,4 @@ public class Years {
         }
 
     }
-
 }
-
-

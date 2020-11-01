@@ -3,62 +3,37 @@ package Codeforces;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.StringTokenizer;
 
-public class Years {
-
-    public static class Point implements Comparable<Point>{
-        boolean isStart;
-        long num;
-        public Point(boolean isStart, long num){
-            this.isStart = isStart;
-            this.num = num;
-        }
-
-        @Override
-        public int compareTo(Point o) {
-            if(o.num != this.num){
-                return Long.compare(num,o.num);
-            }else{
-                if(isStart){
-                    return 1;
-                }else{
-                    return -1;
-                }
-            }
-        }
-    }
+public class RestorethePermutationbyMerger {
 
     public static void main(String[] args){
         MyScanner sc = new MyScanner();
         int t = sc.nextInt();
-        long[][] arr = new long[t][2];
-        PriorityQueue<Point> pq = new PriorityQueue<>();
-        for(int i=0;i<t;i++){
-            for(int j=0;j<2;j++){
-                arr[i][j] = sc.nextInt();
-                pq.add(new Point(j%2==0,arr[i][j]));
+        while(t-->0){
+            int n = sc.nextInt();
+            int arr[] = new int[2*n];
+            for(int i=0;i<2*n;i++){
+                arr[i] = sc.nextInt();
             }
-        }
-        int ans = 0;
-        int max = Integer.MIN_VALUE;
-        long year = -1;
-        while(!pq.isEmpty()){
-            Point p = pq.poll();
-            if(p.isStart){
-                ans++;
-                if(max<ans){
-                    max = ans;
-                    year = p.num;
+            HashSet<Integer> mp = new HashSet<>();
+            int res[] = new int[n];
+            int ptr = 0;
+            for(int i=0;i<2*n;i++){
+                if(!mp.contains(arr[i])){
+                    res[ptr] = arr[i];
+                    ptr++;
+                    mp.add(arr[i]);
                 }
-            }else{
-                ans--;
             }
+            for(int i=0;i<n;i++){
+                System.out.print(res[i] + " ");
+            }
+            System.out.println();
         }
-        System.out.println(year + " " + max);
     }
-
-
 
 
 
@@ -111,5 +86,3 @@ public class Years {
     }
 
 }
-
-

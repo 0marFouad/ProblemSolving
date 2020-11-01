@@ -3,62 +3,49 @@ package Codeforces;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.StringTokenizer;
 
-public class Years {
-
-    public static class Point implements Comparable<Point>{
-        boolean isStart;
-        long num;
-        public Point(boolean isStart, long num){
-            this.isStart = isStart;
-            this.num = num;
-        }
-
-        @Override
-        public int compareTo(Point o) {
-            if(o.num != this.num){
-                return Long.compare(num,o.num);
-            }else{
-                if(isStart){
-                    return 1;
-                }else{
-                    return -1;
-                }
-            }
-        }
-    }
+public class ThreeIndices {
 
     public static void main(String[] args){
         MyScanner sc = new MyScanner();
         int t = sc.nextInt();
-        long[][] arr = new long[t][2];
-        PriorityQueue<Point> pq = new PriorityQueue<>();
-        for(int i=0;i<t;i++){
-            for(int j=0;j<2;j++){
-                arr[i][j] = sc.nextInt();
-                pq.add(new Point(j%2==0,arr[i][j]));
+        while(t-->0) {
+            int n = sc.nextInt();
+            int arr[] = new int[n];
+            int maxIdx = 0;
+            HashMap<Integer, Integer> mp = new HashMap<>();
+            for (int i = 0; i < n; i++) {
+                arr[i] = sc.nextInt();
+                mp.put(arr[i], i + 1);
             }
-        }
-        int ans = 0;
-        int max = Integer.MIN_VALUE;
-        long year = -1;
-        while(!pq.isEmpty()){
-            Point p = pq.poll();
-            if(p.isStart){
-                ans++;
-                if(max<ans){
-                    max = ans;
-                    year = p.num;
+            int left[] = new int[n];
+            int right[] = new int[n];
+            left[0] = arr[0];
+            for (int i = 1; i < n; i++) {
+                left[i] = Math.min(arr[i], left[i - 1]);
+            }
+            right[n - 1] = arr[n - 1];
+            for (int i = n - 2; i >= 0; i--) {
+                right[i] = Math.min(arr[i], right[i + 1]);
+            }
+            int i = 0;
+            for (i = 0; i < n; i++) {
+                if (arr[i] > left[i] && arr[i] > right[i]) {
+                    break;
                 }
-            }else{
-                ans--;
+            }
+            if (i == n) {
+                System.out.println("NO");
+            } else {
+                System.out.println("YES");
+                System.out.println(mp.get(left[i]) + " " + (i + 1) + " " + mp.get(right[i]));
             }
         }
-        System.out.println(year + " " + max);
     }
-
-
 
 
 
@@ -111,5 +98,3 @@ public class Years {
     }
 
 }
-
-
