@@ -20,25 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/BigVova.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/CaptainFlintandCrewRecruitment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/CommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Game01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/HAHAHA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/HugeBoxesofAnimalToys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Multiplyby2divideby6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/OmkarandCompletion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/PuttingBricksintheWall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/RequiredRemainder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/RestorethePermutationbyMerger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/ReverseBinaryStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/ThreeIndices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/ThreePairwiseMaximums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/PokemonArmy_easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/RockandLever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/SageBirthday_easy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Years$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Years$MyScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Years$MyScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Years.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/Years.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Codeforces/Years.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/Years.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,33 +79,7 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PuttingBricksintheWall">
-    <configuration name="BigVova" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.BigVova" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HugeBoxesofAnimalToys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.HugeBoxesofAnimalToys" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SageBirthday_easy">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codeforces.ArrayRestoration.Main" />
       <module name="ProblemSolving" />
@@ -198,6 +158,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PokemonArmy_easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.PokemonArmy_easy" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PuttingBricksintheWall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codeforces.PuttingBricksintheWall" />
       <module name="ProblemSolving" />
@@ -211,8 +184,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseBinaryStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.ReverseBinaryStrings" />
+    <configuration name="RockandLever" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.RockandLever" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SageBirthday_easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.SageBirthday_easy" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -251,19 +237,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BigVova" />
-      <item itemvalue="Application.ReverseBinaryStrings" />
-      <item itemvalue="Application.HugeBoxesofAnimalToys" />
       <item itemvalue="Application.Years" />
       <item itemvalue="Application.PuttingBricksintheWall" />
+      <item itemvalue="Application.PokemonArmy_easy" />
+      <item itemvalue="Application.RockandLever" />
+      <item itemvalue="Application.SageBirthday_easy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SageBirthday_easy" />
+        <item itemvalue="Application.RockandLever" />
+        <item itemvalue="Application.PokemonArmy_easy" />
         <item itemvalue="Application.PuttingBricksintheWall" />
         <item itemvalue="Application.Years" />
-        <item itemvalue="Application.HugeBoxesofAnimalToys" />
-        <item itemvalue="Application.ReverseBinaryStrings" />
-        <item itemvalue="Application.BigVova" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +279,7 @@
       <workItem from="1603793888025" duration="21986000" />
       <workItem from="1603966340387" duration="11799000" />
       <workItem from="1603995308372" duration="1108000" />
-      <workItem from="1604034584531" duration="26793000" />
+      <workItem from="1604034584531" duration="32294000" />
     </task>
     <servers />
   </component>
@@ -336,38 +322,38 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state width="430" height="506" key="DebuggerActiveHint/67.27.1853.1052@67.27.1853.1052" timestamp="1603840034364" />
-    <state width="1807" height="269" key="GridCell.Tab.0.bottom" timestamp="1604199308699">
+    <state width="1807" height="269" key="GridCell.Tab.0.bottom" timestamp="1604214948716">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1604199308699" />
-    <state width="1807" height="269" key="GridCell.Tab.0.center" timestamp="1604199308699">
+    <state width="1807" height="269" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1604214948716" />
+    <state width="1807" height="269" key="GridCell.Tab.0.center" timestamp="1604214948715">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1604199308699" />
-    <state width="1807" height="269" key="GridCell.Tab.0.left" timestamp="1604199308698">
+    <state width="1807" height="269" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1604214948715" />
+    <state width="1807" height="269" key="GridCell.Tab.0.left" timestamp="1604214948715">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1604199308698" />
-    <state width="1807" height="269" key="GridCell.Tab.0.right" timestamp="1604199308699">
+    <state width="1807" height="269" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1604214948715" />
+    <state width="1807" height="269" key="GridCell.Tab.0.right" timestamp="1604214948716">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1604199308699" />
-    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1604066825072">
+    <state width="1807" height="269" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1604214948716" />
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1604213948030">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1604066825072" />
-    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1604066825072">
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1604213948030" />
+    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1604213948030">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1604066825072" />
-    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1604066825071">
+    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1604213948030" />
+    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1604213948029">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1604066825071" />
-    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1604066825072">
+    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1604213948029" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1604213948030">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1604066825072" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1604213948030" />
     <state x="640" y="213" width="1016" height="738" key="SettingsEditor" timestamp="1602405161567">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -933,6 +919,16 @@
           <url>file://$PROJECT_DIR$/src/Codeforces/BigVova.java</url>
           <line>37</line>
           <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/PokemonArmy_easy.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/RockandLever.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="303" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
