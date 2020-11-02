@@ -20,11 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/PokemonArmy_easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/RockandLever.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/SageBirthday_easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/ArrayCancellation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/BuyingTorches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/MaximumProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/MereArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/NegativePrefixes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Stairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/TernarySequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Watermelon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +87,13 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SageBirthday_easy">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.ArrayRestoration.Main" />
+  <component name="RunManager" selected="Application.DeliveryDilemma">
+    <configuration name="DeliveryDilemma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.DeliveryDilemma" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.ArrayRestoration.*" />
+          <option name="PATTERN" value="Codeforces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.World_Cup.Main" />
+    <configuration name="KidsSeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.KidsSeating" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.World_Cup.*" />
+          <option name="PATTERN" value="Codeforces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,8 +166,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PokemonArmy_easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.PokemonArmy_easy" />
+    <configuration name="MereArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.MereArray" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -171,8 +179,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PuttingBricksintheWall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.PuttingBricksintheWall" />
+    <configuration name="SavingTheCity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.SavingTheCity" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -184,34 +192,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RockandLever" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.RockandLever" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SageBirthday_easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.SageBirthday_easy" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Years" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Years" />
+    <configuration name="TernarySequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.TernarySequence" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -237,19 +219,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Years" />
-      <item itemvalue="Application.PuttingBricksintheWall" />
-      <item itemvalue="Application.PokemonArmy_easy" />
-      <item itemvalue="Application.RockandLever" />
-      <item itemvalue="Application.SageBirthday_easy" />
+      <item itemvalue="Application.MereArray" />
+      <item itemvalue="Application.TernarySequence" />
+      <item itemvalue="Application.KidsSeating" />
+      <item itemvalue="Application.SavingTheCity" />
+      <item itemvalue="Application.DeliveryDilemma" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SageBirthday_easy" />
-        <item itemvalue="Application.RockandLever" />
-        <item itemvalue="Application.PokemonArmy_easy" />
-        <item itemvalue="Application.PuttingBricksintheWall" />
-        <item itemvalue="Application.Years" />
+        <item itemvalue="Application.DeliveryDilemma" />
+        <item itemvalue="Application.SavingTheCity" />
+        <item itemvalue="Application.KidsSeating" />
+        <item itemvalue="Application.TernarySequence" />
+        <item itemvalue="Application.MereArray" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +261,9 @@
       <workItem from="1603793888025" duration="21986000" />
       <workItem from="1603966340387" duration="11799000" />
       <workItem from="1603995308372" duration="1108000" />
-      <workItem from="1604034584531" duration="32294000" />
+      <workItem from="1604034584531" duration="36392000" />
+      <workItem from="1604226004415" duration="3974000" />
+      <workItem from="1604313649644" duration="18631000" />
     </task>
     <servers />
   </component>
@@ -302,10 +286,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="804" y="239" width="374" height="593" key="#com.intellij.ide.util.MemberChooser" timestamp="1604197746003">
+    <state x="804" y="223" width="374" height="593" key="#com.intellij.ide.util.MemberChooser" timestamp="1604334430469">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state x="804" y="239" width="374" height="593" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1052@67.27.1853.1052" timestamp="1604197746003" />
+    <state x="804" y="223" width="374" height="593" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1052@67.27.1853.1052" timestamp="1604334430469" />
     <state x="727" y="322" width="524" height="452" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1602156036605">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -318,42 +302,42 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="749" y="424" width="484" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/67.27.1853.1052@67.27.1853.1052" timestamp="1602156193699" />
-    <state width="430" height="506" key="DebuggerActiveHint" timestamp="1603840034364">
+    <state width="442" height="506" key="DebuggerActiveHint" timestamp="1604230027969">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="430" height="506" key="DebuggerActiveHint/67.27.1853.1052@67.27.1853.1052" timestamp="1603840034364" />
-    <state width="1807" height="269" key="GridCell.Tab.0.bottom" timestamp="1604214948716">
+    <state width="442" height="506" key="DebuggerActiveHint/67.27.1853.1052@67.27.1853.1052" timestamp="1604230027969" />
+    <state width="1807" height="269" key="GridCell.Tab.0.bottom" timestamp="1604335738739">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1604214948716" />
-    <state width="1807" height="269" key="GridCell.Tab.0.center" timestamp="1604214948715">
+    <state width="1807" height="269" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1604335738739" />
+    <state width="1807" height="269" key="GridCell.Tab.0.center" timestamp="1604335738739">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1604214948715" />
-    <state width="1807" height="269" key="GridCell.Tab.0.left" timestamp="1604214948715">
+    <state width="1807" height="269" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1604335738739" />
+    <state width="1807" height="269" key="GridCell.Tab.0.left" timestamp="1604335738739">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1604214948715" />
-    <state width="1807" height="269" key="GridCell.Tab.0.right" timestamp="1604214948716">
+    <state width="1807" height="269" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1604335738739" />
+    <state width="1807" height="269" key="GridCell.Tab.0.right" timestamp="1604335738739">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1604214948716" />
-    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1604213948030">
+    <state width="1807" height="269" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1604335738739" />
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1604332259356">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1604213948030" />
-    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1604213948030">
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1604332259356" />
+    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1604332259356">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1604213948030" />
-    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1604213948029">
+    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1604332259356" />
+    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1604332259355">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1604213948029" />
-    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1604213948030">
+    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1604332259355" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1604332259356">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1604213948030" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1604332259356" />
     <state x="640" y="213" width="1016" height="738" key="SettingsEditor" timestamp="1602405161567">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -929,6 +913,31 @@
           <url>file://$PROJECT_DIR$/src/Codeforces/RockandLever.java</url>
           <line>28</line>
           <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/Stairs.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/BuyingTorches.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/MereArray.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/TernarySequence.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/B.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="317" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
