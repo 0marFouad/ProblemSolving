@@ -20,19 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/ArrayCancellation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/BuyingTorches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/MaximumProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/MereArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/NegativePrefixes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Stairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/TernarySequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Watermelon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/BoatsCompetition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/BoboniuLikestoColorBalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/BoboniuPlaysChess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/CaptainFlintandLongVoyage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/CommonPrefixes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/DonutShops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/MakeItGood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/MoveBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/NeighborGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/OmkarandWaterslide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/RepaintingStreet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/SequentialNim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/SignFlipping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/A$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/B$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/C$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/C$Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Integer_To_Roman/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Integer_To_Roman/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +86,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DS_ALG" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
@@ -87,9 +96,9 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeliveryDilemma">
-    <configuration name="DeliveryDilemma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.DeliveryDilemma" />
+  <component name="RunManager" selected="Application.RepaintingStreet">
+    <configuration name="DonutShops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.DonutShops" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KidsSeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.KidsSeating" />
+    <configuration name="MoveBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.MoveBrackets" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -114,60 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.TwoRoundDance.Main" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.TwoRoundDance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.DistrictConnections.Main" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.DistrictConnections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.DominantPiranha.Main" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.DominantPiranha.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Nice_Matrix.Main" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.Nice_Matrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MereArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.MereArray" />
+    <configuration name="NeighborGrid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.NeighborGrid" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -179,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SavingTheCity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.SavingTheCity" />
+    <configuration name="RepaintingStreet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.RepaintingStreet" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -192,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TernarySequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.TernarySequence" />
+    <configuration name="SignFlipping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.SignFlipping" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -219,19 +176,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MereArray" />
-      <item itemvalue="Application.TernarySequence" />
-      <item itemvalue="Application.KidsSeating" />
-      <item itemvalue="Application.SavingTheCity" />
-      <item itemvalue="Application.DeliveryDilemma" />
+      <item itemvalue="Application.NeighborGrid" />
+      <item itemvalue="Application.SignFlipping" />
+      <item itemvalue="Application.MoveBrackets" />
+      <item itemvalue="Application.DonutShops" />
+      <item itemvalue="Application.RepaintingStreet" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeliveryDilemma" />
-        <item itemvalue="Application.SavingTheCity" />
-        <item itemvalue="Application.KidsSeating" />
-        <item itemvalue="Application.TernarySequence" />
-        <item itemvalue="Application.MereArray" />
+        <item itemvalue="Application.RepaintingStreet" />
+        <item itemvalue="Application.DonutShops" />
+        <item itemvalue="Application.MoveBrackets" />
+        <item itemvalue="Application.SignFlipping" />
+        <item itemvalue="Application.NeighborGrid" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +220,13 @@
       <workItem from="1603995308372" duration="1108000" />
       <workItem from="1604034584531" duration="36392000" />
       <workItem from="1604226004415" duration="3974000" />
-      <workItem from="1604313649644" duration="18631000" />
+      <workItem from="1604313649644" duration="19407000" />
+      <workItem from="1604445590449" duration="16301000" />
+      <workItem from="1608037679338" duration="989000" />
+      <workItem from="1608905887176" duration="1543000" />
+      <workItem from="1608990790982" duration="3274000" />
+      <workItem from="1609000120979" duration="3953000" />
+      <workItem from="1609096321652" duration="2437000" />
     </task>
     <servers />
   </component>
@@ -286,10 +249,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="804" y="223" width="374" height="593" key="#com.intellij.ide.util.MemberChooser" timestamp="1604334430469">
+    <state x="804" y="215" width="374" height="593" key="#com.intellij.ide.util.MemberChooser" timestamp="1604494029923">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state x="804" y="223" width="374" height="593" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1052@67.27.1853.1052" timestamp="1604334430469" />
+    <state x="804" y="215" width="374" height="593" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1052@67.27.1853.1052" timestamp="1604494029923" />
     <state x="727" y="322" width="524" height="452" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1602156036605">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -306,38 +269,42 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state width="442" height="506" key="DebuggerActiveHint/67.27.1853.1052@67.27.1853.1052" timestamp="1604230027969" />
-    <state width="1807" height="269" key="GridCell.Tab.0.bottom" timestamp="1604335738739">
+    <state x="779" y="306" width="424" height="492" key="FileChooserDialogImpl" timestamp="1608038269672">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1604335738739" />
-    <state width="1807" height="269" key="GridCell.Tab.0.center" timestamp="1604335738739">
+    <state x="779" y="306" width="424" height="492" key="FileChooserDialogImpl/67.27.1853.1052@67.27.1853.1052" timestamp="1608038269672" />
+    <state width="1807" height="342" key="GridCell.Tab.0.bottom" timestamp="1609114689200">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1604335738739" />
-    <state width="1807" height="269" key="GridCell.Tab.0.left" timestamp="1604335738739">
+    <state width="1807" height="342" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1609114689200" />
+    <state width="1807" height="342" key="GridCell.Tab.0.center" timestamp="1609114689199">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1604335738739" />
-    <state width="1807" height="269" key="GridCell.Tab.0.right" timestamp="1604335738739">
+    <state width="1807" height="342" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1609114689199" />
+    <state width="1807" height="342" key="GridCell.Tab.0.left" timestamp="1609114689199">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="269" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1604335738739" />
-    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1604332259356">
+    <state width="1807" height="342" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1609114689199" />
+    <state width="1807" height="342" key="GridCell.Tab.0.right" timestamp="1609114689199">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1604332259356" />
-    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1604332259356">
+    <state width="1807" height="342" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1609114689199" />
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom" timestamp="1609000099411">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1604332259356" />
-    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1604332259355">
+    <state width="1807" height="248" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1609000099411" />
+    <state width="1807" height="248" key="GridCell.Tab.1.center" timestamp="1609000099410">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1604332259355" />
-    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1604332259356">
+    <state width="1807" height="248" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1609000099410" />
+    <state width="1807" height="248" key="GridCell.Tab.1.left" timestamp="1609000099409">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1604332259356" />
+    <state width="1807" height="248" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1609000099409" />
+    <state width="1807" height="248" key="GridCell.Tab.1.right" timestamp="1609000099411">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="248" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1609000099411" />
     <state x="640" y="213" width="1016" height="738" key="SettingsEditor" timestamp="1602405161567">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -935,9 +902,24 @@
           <option name="timeStamp" value="312" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Codeforces/B.java</url>
+          <url>file://$PROJECT_DIR$/src/Codeforces/SavingTheCity.java</url>
           <line>51</line>
           <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/OmkarandWaterslide.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/CommonPrefixes.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/SequentialNim.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="327" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
