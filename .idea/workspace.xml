@@ -20,39 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/ArrayDestruction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/BovineDilemma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/BuildingFence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/CaninePoetry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/CeilDivisions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/DifferentDivisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/DominoPiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Dungeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Elephant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/FavoriteSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/HillsAndValleys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/LastMinuteEnhancements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/LastYearSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/NoMoreInversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/PingPong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/PuzzleFromtheFuture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/RedAndBlue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/RedBlueShuffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/RegularBracketSeq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/ReplacingElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/SoldierandBananas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/StrangeBirthdayParty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/StrangeFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/StrangeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/StrangePartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/StringGeneration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/StringLCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/UniqueNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/WizardofOrz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/CorrectPlacement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/RepaintingStreet$MyScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/RepaintingStreet$MyScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/RepaintingStreet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/RepaintingStreet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +76,7 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StrangeBirthdayParty">
+  <component name="RunManager" selected="Application.CorrectPlacement">
     <configuration name="ArrayDestruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codeforces.ArrayDestruction" />
       <module name="ProblemSolving" />
@@ -121,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DifferentDivisors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.DifferentDivisors" />
+    <configuration name="CorrectPlacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.CorrectPlacement" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -173,33 +142,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.DifferentDivisors" />
       <item itemvalue="Application.ArrayDestruction" />
       <item itemvalue="Application.StrangePartition" />
       <item itemvalue="Application.StrangeList" />
       <item itemvalue="Application.StrangeBirthdayParty" />
+      <item itemvalue="Application.CorrectPlacement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CorrectPlacement" />
         <item itemvalue="Application.StrangeBirthdayParty" />
         <item itemvalue="Application.StrangeList" />
         <item itemvalue="Application.StrangePartition" />
         <item itemvalue="Application.ArrayDestruction" />
-        <item itemvalue="Application.DifferentDivisors" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +202,9 @@
       <workItem from="1610112915465" duration="12566000" />
       <workItem from="1610977925187" duration="22661000" />
       <workItem from="1611093623851" duration="2453000" />
-      <workItem from="1611134710520" duration="8930000" />
+      <workItem from="1611134710520" duration="12662000" />
+      <workItem from="1611173787880" duration="5570000" />
+      <workItem from="1611223288819" duration="2211000" />
     </task>
     <servers />
   </component>
@@ -269,58 +227,62 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="804" y="191" width="374" height="593" key="#com.intellij.ide.util.MemberChooser" timestamp="1611145408015">
+    <state x="804" y="183" width="374" height="593" key="#com.intellij.ide.util.MemberChooser" timestamp="1611161746022">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state x="804" y="191" width="374" height="593" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1052@67.27.1853.1052" timestamp="1611145408015" />
+    <state x="804" y="183" width="374" height="593" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1052@67.27.1853.1052" timestamp="1611161746022" />
     <state x="749" y="442" width="542" height="227" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603970201379">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="749" y="442" width="542" height="227" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1853.1052@67.27.1853.1052" timestamp="1603970201379" />
-    <state width="490" height="506" key="DebuggerActiveHint" timestamp="1611083584984">
+    <state width="490" height="506" key="DebuggerActiveHint" timestamp="1611225054793">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="490" height="506" key="DebuggerActiveHint/67.27.1853.1052@67.27.1853.1052" timestamp="1611083584984" />
+    <state width="490" height="506" key="DebuggerActiveHint/67.27.1853.1052@67.27.1853.1052" timestamp="1611225054793" />
     <state x="779" y="306" width="424" height="492" key="FileChooserDialogImpl" timestamp="1608038269672">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="779" y="306" width="424" height="492" key="FileChooserDialogImpl/67.27.1853.1052@67.27.1853.1052" timestamp="1608038269672" />
-    <state width="1807" height="187" key="GridCell.Tab.0.bottom" timestamp="1611142351431">
+    <state width="1807" height="263" key="GridCell.Tab.0.bottom" timestamp="1611225469088">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="187" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1611142351431" />
-    <state width="1807" height="187" key="GridCell.Tab.0.center" timestamp="1611142351430">
+    <state width="1807" height="263" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1611225469088" />
+    <state width="1807" height="263" key="GridCell.Tab.0.center" timestamp="1611225469087">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="187" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1611142351430" />
-    <state width="1807" height="187" key="GridCell.Tab.0.left" timestamp="1611142351430">
+    <state width="1807" height="263" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1611225469087" />
+    <state width="1807" height="263" key="GridCell.Tab.0.left" timestamp="1611225469087">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="187" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1611142351430" />
-    <state width="1807" height="187" key="GridCell.Tab.0.right" timestamp="1611142351430">
+    <state width="1807" height="263" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1611225469087" />
+    <state width="1807" height="263" key="GridCell.Tab.0.right" timestamp="1611225469087">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="187" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1611142351430" />
-    <state width="1807" height="251" key="GridCell.Tab.1.bottom" timestamp="1611142330166">
+    <state width="1807" height="263" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1611225469087" />
+    <state width="1807" height="303" key="GridCell.Tab.1.bottom" timestamp="1611225458312">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="251" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1611142330166" />
-    <state width="1807" height="251" key="GridCell.Tab.1.center" timestamp="1611142330165">
+    <state width="1807" height="303" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1611225458312" />
+    <state width="1807" height="303" key="GridCell.Tab.1.center" timestamp="1611225458311">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="251" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1611142330165" />
-    <state width="1807" height="251" key="GridCell.Tab.1.left" timestamp="1611142330165">
+    <state width="1807" height="303" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1611225458311" />
+    <state width="1807" height="303" key="GridCell.Tab.1.left" timestamp="1611225458311">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="251" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1611142330165" />
-    <state width="1807" height="251" key="GridCell.Tab.1.right" timestamp="1611142330166">
+    <state width="1807" height="303" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1611225458311" />
+    <state width="1807" height="303" key="GridCell.Tab.1.right" timestamp="1611225458311">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="251" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1611142330166" />
+    <state width="1807" height="303" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1611225458311" />
     <state x="506" y="267" width="970" height="655" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602874794332">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="506" y="267" width="970" height="655" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.1853.1052@67.27.1853.1052" timestamp="1602874794332" />
+    <state x="657" y="249" key="run.anything.popup" timestamp="1611175405720">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="657" y="249" key="run.anything.popup/67.27.1853.1052@67.27.1853.1052" timestamp="1611175405720" />
     <state x="656" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1609333236633">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -998,6 +960,11 @@
           <url>file://$PROJECT_DIR$/src/Codeforces/ArrayDestruction.java</url>
           <line>85</line>
           <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/CorrectPlacement.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="380" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
