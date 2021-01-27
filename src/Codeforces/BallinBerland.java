@@ -63,6 +63,9 @@ public class BallinBerland {
             }
             for(int i=0;i<k;i++){
                 pairs.get(i).j = sc.nextInt();
+            }
+            Collections.sort(pairs);
+            for(int i=0;i<k;i++){
                 if(mp.containsKey(pairs.get(i).j)){
                     mp.get(pairs.get(i).j).add(i);
                 }else{
@@ -71,7 +74,6 @@ public class BallinBerland {
                     mp.put(pairs.get(i).j,nnew);
                 }
             }
-            Collections.sort(pairs);
             for(int i=0;i<pairs.size();i++){
                 lastIdx.put(pairs.get(i).i,i);
             }
