@@ -20,22 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/BusyRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/FindTheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Inflation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Journey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/KdivisibleSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/LongestSimpleCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/CreateTheTeams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Pairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/UniversalSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/A$MyScanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/B$MyScanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/C$MyScanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Codeforces/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/NezzarandColorfulBalls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Codeforces/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/NezzarandLuckyNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Codeforces/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/NezzarandSymmetricArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/BusyRobot$MyScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/BusyRobot$MyScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/BusyRobot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/BusyRobot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/BusyRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/BusyRobot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,9 +81,9 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Journey">
-    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.C" />
+  <component name="RunManager" selected="Application.Pairs">
+    <configuration name="BusyRobot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.BusyRobot" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inflation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Inflation" />
+    <configuration name="CreateTheTeams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.CreateTheTeams" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KdivisibleSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.KdivisibleSum" />
+    <configuration name="Pairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Pairs" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -143,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSimpleCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.LongestSimpleCycle" />
+    <configuration name="UniversalSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.UniversalSolution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -156,33 +147,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.C" />
-      <item itemvalue="Application.KdivisibleSum" />
-      <item itemvalue="Application.Inflation" />
-      <item itemvalue="Application.LongestSimpleCycle" />
       <item itemvalue="Application.Journey" />
+      <item itemvalue="Application.UniversalSolution" />
+      <item itemvalue="Application.CreateTheTeams" />
+      <item itemvalue="Application.BusyRobot" />
+      <item itemvalue="Application.Pairs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pairs" />
+        <item itemvalue="Application.BusyRobot" />
+        <item itemvalue="Application.CreateTheTeams" />
+        <item itemvalue="Application.UniversalSolution" />
         <item itemvalue="Application.Journey" />
-        <item itemvalue="Application.LongestSimpleCycle" />
-        <item itemvalue="Application.C" />
-        <item itemvalue="Application.Inflation" />
-        <item itemvalue="Application.KdivisibleSum" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +225,8 @@
       <workItem from="1611488776007" duration="21214000" />
       <workItem from="1611572730459" duration="18964000" />
       <workItem from="1611753387011" duration="27501000" />
-      <workItem from="1611927258629" duration="23273000" />
+      <workItem from="1611927258629" duration="23589000" />
+      <workItem from="1612008482027" duration="6541000" />
     </task>
     <servers />
   </component>
@@ -275,38 +265,38 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="779" y="306" width="424" height="492" key="FileChooserDialogImpl/67.27.1853.1052@67.27.1853.1052" timestamp="1608038269672" />
-    <state width="1807" height="276" key="GridCell.Tab.0.bottom" timestamp="1611968621946">
+    <state width="1807" height="303" key="GridCell.Tab.0.bottom" timestamp="1612022189239">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1611968621946" />
-    <state width="1807" height="276" key="GridCell.Tab.0.center" timestamp="1611968621945">
+    <state width="1807" height="303" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1612022189239" />
+    <state width="1807" height="303" key="GridCell.Tab.0.center" timestamp="1612022189239">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1611968621945" />
-    <state width="1807" height="276" key="GridCell.Tab.0.left" timestamp="1611968621944">
+    <state width="1807" height="303" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1612022189239" />
+    <state width="1807" height="303" key="GridCell.Tab.0.left" timestamp="1612022189238">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1611968621944" />
-    <state width="1807" height="276" key="GridCell.Tab.0.right" timestamp="1611968621946">
+    <state width="1807" height="303" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1612022189238" />
+    <state width="1807" height="303" key="GridCell.Tab.0.right" timestamp="1612022189239">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1611968621946" />
-    <state width="1807" height="303" key="GridCell.Tab.1.bottom" timestamp="1611968602340">
+    <state width="1807" height="303" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1612022189239" />
+    <state width="1807" height="303" key="GridCell.Tab.1.bottom" timestamp="1612022189240">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="303" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1611968602340" />
-    <state width="1807" height="303" key="GridCell.Tab.1.center" timestamp="1611968602340">
+    <state width="1807" height="303" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1612022189240" />
+    <state width="1807" height="303" key="GridCell.Tab.1.center" timestamp="1612022189239">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="303" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1611968602340" />
-    <state width="1807" height="303" key="GridCell.Tab.1.left" timestamp="1611968602339">
+    <state width="1807" height="303" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1612022189239" />
+    <state width="1807" height="303" key="GridCell.Tab.1.left" timestamp="1612022189239">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="303" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1611968602339" />
-    <state width="1807" height="303" key="GridCell.Tab.1.right" timestamp="1611968602340">
+    <state width="1807" height="303" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1612022189239" />
+    <state width="1807" height="303" key="GridCell.Tab.1.right" timestamp="1612022189239">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="303" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1611968602340" />
+    <state width="1807" height="303" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1612022189239" />
     <state x="657" y="249" key="run.anything.popup" timestamp="1611175405720">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -1051,7 +1041,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Codeforces/BusyRobot.java</url>
-          <line>26</line>
+          <line>25</line>
           <option name="timeStamp" value="438" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1068,6 +1058,16 @@
           <url>file://$PROJECT_DIR$/src/Codeforces/Journey.java</url>
           <line>23</line>
           <option name="timeStamp" value="446" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/UniversalSolution.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="447" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/CreateTheTeams.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="448" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />

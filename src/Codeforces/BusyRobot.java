@@ -17,43 +17,49 @@ public class BusyRobot {
                 arr[i][1] = sc.nextLong();
             }
 
-            long pos = 0;
-            long time = 0;
+            long reachPos = 0;
+            long reachTime = 0;
             long oldPos = 0;
             long oldTime = 0;
             long dir = 1;
             long res = 0;
-            boolean removed = false;
             for(int i=0;i<n;i++){
-                if(arr[i][0] < time){
-                    if(!removed){
-                        removed = true;
-                        res--;
+                long ti = arr[i][0];
+                long tii;
+                if(i==n-1){
+                    tii = Long.MAX_VALUE;
+                }else{
+                    tii = arr[i+1][0];
+                }
+                if(ti < reachTime){
+                    //ignore
+                    long start = oldPos + dir*(ti - oldTime);
+                    long end;
+                    if(tii >= reachTime){
+                        end = reachPos;
+                    }else{
+                        end = oldPos + dir*(tii - oldTime);
                     }
-                    long start = oldPos + dir*(arr[i][0] - oldTime);
-                    long end = pos;
                     if(arr[i][1] >= start && arr[i][1] <= end){
                         res++;
                     }else if(arr[i][1] <= start && arr[i][1] >= end){
                         res++;
                     }
                 }else{
-                    removed = false;
-//                    if(arr[i][1] == pos){
-//                        res++;
-//                        continue;
-//                    }
-                    if(arr[i][1] > pos){
+                    //execute
+                    if(arr[i][1] > reachPos){
                         dir = 1;
                     }else{
                         dir = -1;
                     }
-                    oldPos = pos;
-                    oldTime = arr[i][0];
-                    time = (arr[i][0] + dir*(arr[i][1]-pos));
-                    pos = arr[i][1];
-                    res++;
+                    oldPos = reachPos;
+                    oldTime = ti;
+                    reachTime = (ti + dir*(arr[i][1]-reachPos));
+                    reachPos = arr[i][1];
 
+                    if(tii >= reachTime){
+                        res++;
+                    }
                 }
             }
             System.out.println(res);
