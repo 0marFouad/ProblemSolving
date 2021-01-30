@@ -1,45 +1,47 @@
 package Codeforces;
 
-
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
+import java.util.StringTokenizer;
 
-public class A {
-
+public class Inflation {
     public static void main(String[] args){
         MyScanner sc = new MyScanner();
         int t = sc.nextInt();
         while(t-->0){
             int n = sc.nextInt();
-            int[] arr = new int[n];
-            int[] map = new int[101];
-            int mx = 0;
+            int k = sc.nextInt();
+            long[] arr = new long[n];
+            long sum = 0;
             for(int i=0;i<n;i++){
-                arr[i] = sc.nextInt();
-                map[arr[i]]++;
-                mx = Math.max(mx,map[arr[i]]);
+                arr[i] = sc.nextLong();
             }
-            System.out.println(mx);
+            sum = arr[0];
+            long res = 0;
+            for(int i=1;i<n;i++){
+                long left = (100*arr[i]);
+                long right = k*sum;
+                if(left > right){
+                    long diff = left - right;
+                    diff = (long) Math.ceil((double) diff/(double) k);
+                    res += diff;
+                    sum += (diff);
+                }
+                sum += arr[i];
+            }
+            System.out.println(res);
         }
     }
 
 
 
-    public static int[] sort(int arr[]) {
 
-        List<Integer> list = new ArrayList<>();
-        for(int i:arr)
-            list.add(i);
-        Collections.sort(list);
-        for(int i = 0;i<list.size();i++) {
-            arr[i] = list.get(i);
-        }
-        return arr;
 
-    }
+
+
+
+
 
 
     public static class MyScanner {

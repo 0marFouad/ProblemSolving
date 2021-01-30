@@ -7,61 +7,49 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class C {
+public class NezzarandLuckyNumber {
+
+    public static boolean searchNum(long num,int d){
+        while(num != 0){
+            if(num%10 == d){
+                return true;
+            }
+            num /= 10;
+        }
+        return false;
+    }
 
     public static void main(String[] args){
         MyScanner sc = new MyScanner();
         int t = sc.nextInt();
         while(t-->0){
-            int n = sc.nextInt();
-            long[] d = new long[2*n];
-            long sum = Long.MAX_VALUE;
-            boolean can = true;
-            HashSet<Long> rem = new HashSet<>();
-            ArrayList<Long> nums = new ArrayList<>();
-            int test = 0;
-            for(int i=0;i<2*n;i++){
-                d[i] = sc.nextLong();
-                if(!rem.contains(d[i])){
-                    test++;
-                    nums.add(d[i]);
-                    rem.add(d[i]);
+            int q = sc.nextInt();
+            int d = sc.nextInt();
+            long[] arr = new long[q];
+            for(int i=0;i<q;i++){
+                arr[i] = sc.nextInt();
+            }
+            for(int i=0;i<q;i++){
+                if(arr[i]/d >= 10){
+                    System.out.println("YES");
+                }else{
+                    long cntD = arr[i]/d;
+                    long rem = arr[i]%d;
+                    long saved = 0;
+                    boolean done = false;
+                    for(int j=0;j<cntD;j++){
+                        saved += d;
+                        if(searchNum(saved+rem,d)){
+                            done = true;
+                        }
+                    }
+                    if(done){
+                        System.out.println("YES");
+                    }else{
+                        System.out.println("NO");
+                    }
                 }
-                if(d[i]%2==1 || d[i]<=0){
-                    can = false;
-                }
             }
-            if(!can || test != n){
-                System.out.println("NO");
-                continue;
-            }
-            Collections.sort(nums);
-            sum = nums.get(0)/2;
-
-            ArrayList<Long> diffs = new ArrayList<>();
-            long acc = 0;
-            long sum2 = sum;
-            long div = 2;
-            long saved = 0;
-            for(int i=0;i<nums.size()-1;i++){
-                long df = nums.get(i+1) - nums.get(i);
-                diffs.add(df);
-                if(df <= 0 || df%div != 0){
-                    sum2 = -1;
-                    break;
-                }
-                acc += (df/div);
-                sum2 -= (acc);
-                div+=2;
-            }
-            if(sum2 <= 0 || sum2%nums.size() != 0){
-                System.out.println("NO");
-            }else{
-                System.out.println("YES");
-            }
-
-
-
         }
     }
 

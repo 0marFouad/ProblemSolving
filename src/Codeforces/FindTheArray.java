@@ -7,49 +7,41 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class B {
-
-    public static boolean searchNum(long num,int d){
-        while(num != 0){
-            if(num%10 == d){
-                return true;
-            }
-            num /= 10;
-        }
-        return false;
-    }
+public class FindTheArray {
 
     public static void main(String[] args){
         MyScanner sc = new MyScanner();
         int t = sc.nextInt();
         while(t-->0){
-            int q = sc.nextInt();
-            int d = sc.nextInt();
-            long[] arr = new long[q];
-            for(int i=0;i<q;i++){
+            int n = sc.nextInt();
+            long[] arr = new long[n];
+            long sum = 0;
+            long sumOdd = 0;
+            long sumEven = 0;
+            for(int i=0;i<n;i++){
                 arr[i] = sc.nextInt();
-            }
-            for(int i=0;i<q;i++){
-                if(arr[i]/d >= 10){
-                    System.out.println("YES");
+                sum += arr[i];
+                if(i%2==0){
+                    sumOdd += arr[i];
                 }else{
-                    long cntD = arr[i]/d;
-                    long rem = arr[i]%d;
-                    long saved = 0;
-                    boolean done = false;
-                    for(int j=0;j<cntD;j++){
-                        saved += d;
-                        if(searchNum(saved+rem,d)){
-                            done = true;
-                        }
-                    }
-                    if(done){
-                        System.out.println("YES");
-                    }else{
-                        System.out.println("NO");
-                    }
+                    sumEven += arr[i];
                 }
             }
+
+            if(sumEven <= sum/2){
+                for(int i=1;i<n;i+=2){
+                    arr[i]=1;
+                }
+            }else{
+                for(int i=0;i<n;i+=2){
+                    arr[i]=1;
+                }
+            }
+
+            for(int i=0;i<n;i++){
+                System.out.print(arr[i] + " ");
+            }
+            System.out.println();
         }
     }
 
