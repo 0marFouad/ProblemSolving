@@ -20,16 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/SearchingLocalMinimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/TheGreatHero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/YetAnotherStringGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Jumps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/RadioTowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/RobotProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/SequenceandSwaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/ToyBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/TwoBrackets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/GuesstheNumber$MyScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/GuesstheNumber$MyScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/GuesstheNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/GuesstheNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Codeforces/GuesstheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/GuesstheNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/A$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/B$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/C$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/C$Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/C.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,9 +88,9 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryTable">
-    <configuration name="BinaryTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.BinaryTable" />
+  <component name="RunManager" selected="Application.RadioTowers">
+    <configuration name="RadioTowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.RadioTowers" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuyTheString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.BuyTheString" />
+    <configuration name="RobotProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.RobotProgram" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuesstheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.GuesstheNumber" />
+    <configuration name="SequenceandSwaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.SequenceandSwaps" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfMedians" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.SumOfMedians" />
+    <configuration name="ToyBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.ToyBlocks" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheGreatHero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.TheGreatHero" />
+    <configuration name="TwoBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.TwoBrackets" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -150,31 +154,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GuesstheNumber" />
-      <item itemvalue="Application.TheGreatHero" />
-      <item itemvalue="Application.BuyTheString" />
-      <item itemvalue="Application.SumOfMedians" />
-      <item itemvalue="Application.BinaryTable" />
+      <item itemvalue="Application.SequenceandSwaps" />
+      <item itemvalue="Application.RobotProgram" />
+      <item itemvalue="Application.TwoBrackets" />
+      <item itemvalue="Application.ToyBlocks" />
+      <item itemvalue="Application.RadioTowers" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinaryTable" />
-        <item itemvalue="Application.SumOfMedians" />
-        <item itemvalue="Application.BuyTheString" />
-        <item itemvalue="Application.GuesstheNumber" />
-        <item itemvalue="Application.TheGreatHero" />
+        <item itemvalue="Application.RadioTowers" />
+        <item itemvalue="Application.ToyBlocks" />
+        <item itemvalue="Application.TwoBrackets" />
+        <item itemvalue="Application.RobotProgram" />
+        <item itemvalue="Application.SequenceandSwaps" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +237,8 @@
       <workItem from="1611927258629" duration="23589000" />
       <workItem from="1612008482027" duration="7801000" />
       <workItem from="1612691794953" duration="22210000" />
-      <workItem from="1613034012391" duration="6624000" />
+      <workItem from="1613034012391" duration="7398000" />
+      <workItem from="1613294825705" duration="11151000" />
     </task>
     <servers />
   </component>
@@ -266,38 +273,38 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="779" y="306" width="424" height="492" key="FileChooserDialogImpl/67.27.1853.1052@67.27.1853.1052" timestamp="1608038269672" />
-    <state width="1807" height="369" key="GridCell.Tab.0.bottom" timestamp="1613041682979">
+    <state width="1807" height="276" key="GridCell.Tab.0.bottom" timestamp="1613318620621">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1613041682979" />
-    <state width="1807" height="369" key="GridCell.Tab.0.center" timestamp="1613041682979">
+    <state width="1807" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1613318620621" />
+    <state width="1807" height="276" key="GridCell.Tab.0.center" timestamp="1613318620620">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1613041682979" />
-    <state width="1807" height="369" key="GridCell.Tab.0.left" timestamp="1613041682978">
+    <state width="1807" height="276" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1613318620620" />
+    <state width="1807" height="276" key="GridCell.Tab.0.left" timestamp="1613318620620">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1613041682978" />
-    <state width="1807" height="369" key="GridCell.Tab.0.right" timestamp="1613041682979">
+    <state width="1807" height="276" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1613318620620" />
+    <state width="1807" height="276" key="GridCell.Tab.0.right" timestamp="1613318620620">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1613041682979" />
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1613041684691">
+    <state width="1807" height="276" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1613318620620" />
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1613318442847">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1613041684691" />
-    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1613041684689">
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1613318442847" />
+    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1613318442847">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1613041684689" />
-    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1613041684688">
+    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1613318442847" />
+    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1613318442847">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1613041684688" />
-    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1613041684690">
+    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1613318442847" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1613318442847">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1613041684690" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1613318442847" />
     <state x="657" y="249" key="run.anything.popup" timestamp="1611175405720">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -1091,19 +1098,34 @@
           <option name="timeStamp" value="459" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Codeforces/A.java</url>
+          <url>file://$PROJECT_DIR$/src/Codeforces/BuyTheString.java</url>
           <line>28</line>
           <option name="timeStamp" value="460" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Codeforces/B.java</url>
+          <url>file://$PROJECT_DIR$/src/Codeforces/SumOfMedians.java</url>
           <line>24</line>
           <option name="timeStamp" value="461" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Codeforces/C.java</url>
+          <url>file://$PROJECT_DIR$/src/Codeforces/BinaryTable.java</url>
           <line>36</line>
           <option name="timeStamp" value="462" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/Jumps.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="463" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/RobotProgram.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="465" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/ToyBlocks.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="466" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
