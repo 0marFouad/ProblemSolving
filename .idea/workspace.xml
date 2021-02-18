@@ -20,12 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Arena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/A.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Codeforces/B.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Codeforces/C.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Codeforces/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/MinimalHeightTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/A$MyScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/A$MyScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/B$MyScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/B$MyScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/C$MyScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/C$MyScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/D$MyScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/D$MyScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/D.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,33 +87,7 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.D">
-    <configuration name="Arena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Arena" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CatCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.CatCycle" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.GuessingtheGreatest">
     <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codeforces.D" />
       <module name="ProblemSolving" />
@@ -120,8 +101,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimalHeightTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.MinimalHeightTree" />
+    <configuration name="EasternExhibition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.EasternExhibition" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessingtheGreatest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.GuessingtheGreatest" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -146,31 +140,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="ShiftingStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.ShiftingStacks" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MinimalHeightTree" />
       <item itemvalue="Application.D" />
-      <item itemvalue="Application.Arena" />
-      <item itemvalue="Application.CatCycle" />
       <item itemvalue="Application.MinimumTies" />
+      <item itemvalue="Application.ShiftingStacks" />
+      <item itemvalue="Application.EasternExhibition" />
+      <item itemvalue="Application.GuessingtheGreatest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GuessingtheGreatest" />
+        <item itemvalue="Application.EasternExhibition" />
+        <item itemvalue="Application.ShiftingStacks" />
         <item itemvalue="Application.D" />
         <item itemvalue="Application.MinimumTies" />
-        <item itemvalue="Application.CatCycle" />
-        <item itemvalue="Application.Arena" />
-        <item itemvalue="Application.MinimalHeightTree" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +238,8 @@
       <workItem from="1612691794953" duration="22210000" />
       <workItem from="1613034012391" duration="7398000" />
       <workItem from="1613294825705" duration="11502000" />
-      <workItem from="1613396925095" duration="11147000" />
+      <workItem from="1613396925095" duration="11215000" />
+      <workItem from="1613655789290" duration="12783000" />
     </task>
     <servers />
   </component>
@@ -264,38 +274,38 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="779" y="306" width="424" height="492" key="FileChooserDialogImpl/67.27.1853.1052@67.27.1853.1052" timestamp="1608038269672" />
-    <state width="1807" height="276" key="GridCell.Tab.0.bottom" timestamp="1613407090847">
+    <state width="1807" height="276" key="GridCell.Tab.0.bottom" timestamp="1613671794697">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1613407090847" />
-    <state width="1807" height="276" key="GridCell.Tab.0.center" timestamp="1613407090845">
+    <state width="1807" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1613671794697" />
+    <state width="1807" height="276" key="GridCell.Tab.0.center" timestamp="1613671794697">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1613407090845" />
-    <state width="1807" height="276" key="GridCell.Tab.0.left" timestamp="1613407090845">
+    <state width="1807" height="276" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1613671794697" />
+    <state width="1807" height="276" key="GridCell.Tab.0.left" timestamp="1613671794696">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1613407090845" />
-    <state width="1807" height="276" key="GridCell.Tab.0.right" timestamp="1613407090846">
+    <state width="1807" height="276" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1613671794696" />
+    <state width="1807" height="276" key="GridCell.Tab.0.right" timestamp="1613671794697">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="276" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1613407090846" />
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1613405060528">
+    <state width="1807" height="276" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1613671794697" />
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1613671244374">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1613405060528" />
-    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1613405060528">
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1613671244374" />
+    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1613671244374">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1613405060528" />
-    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1613405060528">
+    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1613671244374" />
+    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1613671244373">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1613405060528" />
-    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1613405060528">
+    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1613671244373" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1613671244374">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1613405060528" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1613671244374" />
     <state x="657" y="249" key="run.anything.popup" timestamp="1611175405720">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -1124,14 +1134,24 @@
           <option name="timeStamp" value="468" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Codeforces/B.java</url>
+          <url>file://$PROJECT_DIR$/src/Codeforces/CatCycle.java</url>
           <line>24</line>
           <option name="timeStamp" value="472" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Codeforces/C.java</url>
+          <url>file://$PROJECT_DIR$/src/Codeforces/MinimumTies.java</url>
           <line>46</line>
           <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/A.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/B.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="478" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
