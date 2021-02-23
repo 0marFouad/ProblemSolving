@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/AccidentalVictory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/BalancedRemainders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/DenseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/EqualizetheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/OldFloppyDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/PermutationTransformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/SumofCubes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/C.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,9 +78,9 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OldFloppyDrive">
-    <configuration name="AccidentalVictory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.AccidentalVictory" />
+  <component name="RunManager" selected="Application.MaximumWidth">
+    <configuration name="CardDeck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.CardDeck" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -109,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaximumWidth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.MaximumWidth" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OldFloppyDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codeforces.OldFloppyDrive" />
       <module name="ProblemSolving" />
@@ -122,21 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationTransformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.PermutationTransformation" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumofCubes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.SumofCubes" />
+    <configuration name="ThreeSwimmers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.ThreeSwimmers" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -160,19 +156,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SumofCubes" />
-      <item itemvalue="Application.PermutationTransformation" />
-      <item itemvalue="Application.AccidentalVictory" />
       <item itemvalue="Application.EqualizetheArray" />
       <item itemvalue="Application.OldFloppyDrive" />
+      <item itemvalue="Application.ThreeSwimmers" />
+      <item itemvalue="Application.CardDeck" />
+      <item itemvalue="Application.MaximumWidth" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumWidth" />
+        <item itemvalue="Application.CardDeck" />
+        <item itemvalue="Application.ThreeSwimmers" />
         <item itemvalue="Application.OldFloppyDrive" />
         <item itemvalue="Application.EqualizetheArray" />
-        <item itemvalue="Application.AccidentalVictory" />
-        <item itemvalue="Application.PermutationTransformation" />
-        <item itemvalue="Application.SumofCubes" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +232,8 @@
       <workItem from="1613673747840" duration="559000" />
       <workItem from="1613828392084" duration="6869000" />
       <workItem from="1613899642938" duration="7712000" />
+      <workItem from="1613910272552" duration="582000" />
+      <workItem from="1614096116632" duration="4523000" />
     </task>
     <servers />
   </component>
@@ -270,38 +268,38 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="779" y="306" width="424" height="492" key="FileChooserDialogImpl/67.27.1853.1052@67.27.1853.1052" timestamp="1608038269672" />
-    <state width="1807" height="369" key="GridCell.Tab.0.bottom" timestamp="1613909880213">
+    <state width="1807" height="431" key="GridCell.Tab.0.bottom" timestamp="1614100648674">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1613909880213" />
-    <state width="1807" height="369" key="GridCell.Tab.0.center" timestamp="1613909880212">
+    <state width="1807" height="431" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1614100648674" />
+    <state width="1807" height="431" key="GridCell.Tab.0.center" timestamp="1614100648673">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1613909880212" />
-    <state width="1807" height="369" key="GridCell.Tab.0.left" timestamp="1613909880212">
+    <state width="1807" height="431" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1614100648673" />
+    <state width="1807" height="431" key="GridCell.Tab.0.left" timestamp="1614100648666">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1613909880212" />
-    <state width="1807" height="369" key="GridCell.Tab.0.right" timestamp="1613909880212">
+    <state width="1807" height="431" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1614100648666" />
+    <state width="1807" height="431" key="GridCell.Tab.0.right" timestamp="1614100648673">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1613909880212" />
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1613909880214">
+    <state width="1807" height="431" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1614100648673" />
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1614100638497">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1613909880214" />
-    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1613909880213">
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1614100638497" />
+    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1614100638497">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1613909880213" />
-    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1613909880213">
+    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1614100638497" />
+    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1614100638497">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1613909880213" />
-    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1613909880214">
+    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1614100638497" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1614100638497">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1613909880214" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1614100638497" />
     <state x="657" y="249" key="run.anything.popup" timestamp="1611175405720">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -1173,6 +1171,16 @@
           <url>file://$PROJECT_DIR$/src/Codeforces/OldFloppyDrive.java</url>
           <line>70</line>
           <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/B.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="488" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/C.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="494" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
