@@ -20,10 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/AddandDivide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Generate_Parentheses/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Implement_strStr/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Next_Permutation/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/A$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/B$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/C$MyScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/C.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,9 +85,9 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaximumWidth">
-    <configuration name="CardDeck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.CardDeck" />
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.B" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualizetheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.EqualizetheArray" />
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.C" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -105,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumWidth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.MaximumWidth" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Next_Permutation.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
+          <option name="PATTERN" value="Leetcode.Next_Permutation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OldFloppyDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.OldFloppyDrive" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Implement_strStr.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
+          <option name="PATTERN" value="Leetcode.Implement_strStr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSwimmers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.ThreeSwimmers" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Generate_Parentheses.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
+          <option name="PATTERN" value="Leetcode.Generate_Parentheses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,31 +151,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Next_Permutation.Solution" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.Next_Permutation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EqualizetheArray" />
-      <item itemvalue="Application.OldFloppyDrive" />
-      <item itemvalue="Application.ThreeSwimmers" />
-      <item itemvalue="Application.CardDeck" />
-      <item itemvalue="Application.MaximumWidth" />
+      <item itemvalue="Application.C" />
+      <item itemvalue="Application.B" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumWidth" />
-        <item itemvalue="Application.CardDeck" />
-        <item itemvalue="Application.ThreeSwimmers" />
-        <item itemvalue="Application.OldFloppyDrive" />
-        <item itemvalue="Application.EqualizetheArray" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.C" />
+        <item itemvalue="Application.B" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +255,12 @@
       <workItem from="1613828392084" duration="6869000" />
       <workItem from="1613899642938" duration="7712000" />
       <workItem from="1613910272552" duration="582000" />
-      <workItem from="1614096116632" duration="4523000" />
+      <workItem from="1614096116632" duration="8231000" />
+      <workItem from="1614694390451" duration="7202000" />
+      <workItem from="1615039050802" duration="9086000" />
+      <workItem from="1615058117813" duration="481000" />
+      <workItem from="1616421315640" duration="4117000" />
+      <workItem from="1616493413135" duration="5629000" />
     </task>
     <servers />
   </component>
@@ -264,50 +291,50 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state width="490" height="506" key="DebuggerActiveHint/67.27.1853.1052@67.27.1853.1052" timestamp="1613906776459" />
-    <state x="779" y="306" width="424" height="492" key="FileChooserDialogImpl" timestamp="1608038269672">
+    <state x="779" y="298" width="424" height="492" key="FileChooserDialogImpl" timestamp="1616421506479">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state x="779" y="306" width="424" height="492" key="FileChooserDialogImpl/67.27.1853.1052@67.27.1853.1052" timestamp="1608038269672" />
-    <state width="1807" height="431" key="GridCell.Tab.0.bottom" timestamp="1614100648674">
+    <state x="779" y="298" width="424" height="492" key="FileChooserDialogImpl/67.27.1853.1052@67.27.1853.1052" timestamp="1616421506479" />
+    <state width="1807" height="369" key="GridCell.Tab.0.bottom" timestamp="1616504776885">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="431" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1614100648674" />
-    <state width="1807" height="431" key="GridCell.Tab.0.center" timestamp="1614100648673">
+    <state width="1807" height="369" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1616504776885" />
+    <state width="1807" height="369" key="GridCell.Tab.0.center" timestamp="1616504776885">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="431" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1614100648673" />
-    <state width="1807" height="431" key="GridCell.Tab.0.left" timestamp="1614100648666">
+    <state width="1807" height="369" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1616504776885" />
+    <state width="1807" height="369" key="GridCell.Tab.0.left" timestamp="1616504776884">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="431" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1614100648666" />
-    <state width="1807" height="431" key="GridCell.Tab.0.right" timestamp="1614100648673">
+    <state width="1807" height="369" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1616504776884" />
+    <state width="1807" height="369" key="GridCell.Tab.0.right" timestamp="1616504776885">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="431" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1614100648673" />
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1614100638497">
+    <state width="1807" height="369" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1616504776885" />
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1616504776886">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1614100638497" />
-    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1614100638497">
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1616504776886" />
+    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1616504776885">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1614100638497" />
-    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1614100638497">
+    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1616504776885" />
+    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1616504776885">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1614100638497" />
-    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1614100638497">
+    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1616504776885" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1616504776885">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1614100638497" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1616504776885" />
     <state x="657" y="249" key="run.anything.popup" timestamp="1611175405720">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="657" y="249" key="run.anything.popup/67.27.1853.1052@67.27.1853.1052" timestamp="1611175405720" />
-    <state x="656" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1612739515940">
+    <state x="656" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1616423629200">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state x="656" y="251" width="672" height="678" key="search.everywhere.popup/67.27.1853.1052@67.27.1853.1052" timestamp="1612739515940" />
+    <state x="656" y="251" width="672" height="678" key="search.everywhere.popup/67.27.1853.1052@67.27.1853.1052" timestamp="1616423629200" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1173,14 +1200,34 @@
           <option name="timeStamp" value="487" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Codeforces/B.java</url>
+          <url>file://$PROJECT_DIR$/src/Codeforces/CardDeck.java</url>
           <line>26</line>
           <option name="timeStamp" value="488" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Codeforces/C.java</url>
+          <url>file://$PROJECT_DIR$/src/Codeforces/MaximumWidth.java</url>
           <line>30</line>
           <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Codeforces/AddandDivide.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Generate_Parentheses/Solution.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="513" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Next_Permutation/Solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="519" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Implement_strStr/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="520" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
