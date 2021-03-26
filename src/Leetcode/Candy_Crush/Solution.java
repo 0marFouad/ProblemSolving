@@ -60,7 +60,7 @@ public class Solution {
             i++;
         }
 
-        //Getting Solution out of the Stack
+        //Getting SolutionCompleteSearch out of the Stack
         StringBuilder res = new StringBuilder();
         while(!st.empty()){
             res.append(st.peek());
