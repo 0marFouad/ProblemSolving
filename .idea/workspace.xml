@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Combination_Sum/SolutionCompleteSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Number_Game/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Subsets_II/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Sort_Colors/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Candy_Crush/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Candy_Crush/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +76,13 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Implement_strStr.Solution" />
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Sort_Colors.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.Implement_strStr.*" />
+          <option name="PATTERN" value="Leetcode.Sort_Colors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,31 +155,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.SolutionDP" />
       <item itemvalue="Application.SolutionCompleteSearch" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.SolutionCompleteSearch" />
         <item itemvalue="Application.SolutionDP" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +252,8 @@
       <workItem from="1615058117813" duration="481000" />
       <workItem from="1616421315640" duration="4117000" />
       <workItem from="1616493413135" duration="5649000" />
-      <workItem from="1616770566304" duration="17840000" />
+      <workItem from="1616770566304" duration="19071000" />
+      <workItem from="1616847549569" duration="1285000" />
     </task>
     <servers />
   </component>
@@ -288,38 +288,38 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="779" y="298" width="424" height="492" key="FileChooserDialogImpl/67.27.1853.1052@67.27.1853.1052" timestamp="1616421506479" />
-    <state width="1807" height="378" key="GridCell.Tab.0.bottom" timestamp="1616793638614">
+    <state width="1807" height="369" key="GridCell.Tab.0.bottom" timestamp="1616849543121">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="378" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1616793638614" />
-    <state width="1807" height="378" key="GridCell.Tab.0.center" timestamp="1616793638613">
+    <state width="1807" height="369" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1616849543121" />
+    <state width="1807" height="369" key="GridCell.Tab.0.center" timestamp="1616849543121">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="378" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1616793638613" />
-    <state width="1807" height="378" key="GridCell.Tab.0.left" timestamp="1616793638613">
+    <state width="1807" height="369" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1616849543121" />
+    <state width="1807" height="369" key="GridCell.Tab.0.left" timestamp="1616849543120">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="378" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1616793638613" />
-    <state width="1807" height="378" key="GridCell.Tab.0.right" timestamp="1616793638613">
+    <state width="1807" height="369" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1616849543120" />
+    <state width="1807" height="369" key="GridCell.Tab.0.right" timestamp="1616849543121">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="378" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1616793638613" />
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1616793555894">
+    <state width="1807" height="369" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1616849543121" />
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1616849543123">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1616793555894" />
-    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1616793555893">
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1616849543123" />
+    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1616849543122">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1616793555893" />
-    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1616793555893">
+    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1616849543122" />
+    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1616849543122">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1616793555893" />
-    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1616793555894">
+    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1616849543122" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1616849543122">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1616793555894" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1616849543122" />
     <state x="657" y="249" key="run.anything.popup" timestamp="1611175405720">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -1231,6 +1231,11 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/Number_Game/Solution.java</url>
           <line>17</line>
           <option name="timeStamp" value="525" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Sort_Colors/Solution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="526" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
