@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Daily_Temperatures/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Partition_Equal_Subset_Sum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Path_Sum_III/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Queue_Reconstruction_by_Height/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,20 +77,7 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Number_of_Islands.Solution" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.Number_of_Islands.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (6)">
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Test.Solution" />
       <module name="ProblemSolving" />
@@ -145,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Next_Permutation.Solution" />
+    <configuration name="Solution (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Queue_Reconstruction_by_Height.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.Next_Permutation.*" />
+          <option name="PATTERN" value="Leetcode.Queue_Reconstruction_by_Height.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,33 +143,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution (6)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (6)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +250,8 @@
       <workItem from="1617925638248" duration="3909000" />
       <workItem from="1618052638351" duration="3885000" />
       <workItem from="1618082670966" duration="1619000" />
-      <workItem from="1618142272036" duration="7113000" />
+      <workItem from="1618142272036" duration="7351000" />
+      <workItem from="1618421515737" duration="1373000" />
     </task>
     <servers />
   </component>
@@ -302,38 +286,38 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="779" y="290" width="424" height="492" key="FileChooserDialogImpl/67.27.1853.1052@67.27.1853.1052" timestamp="1617895421391" />
-    <state width="1807" height="369" key="GridCell.Tab.0.bottom" timestamp="1618159133066">
+    <state width="1807" height="378" key="GridCell.Tab.0.bottom" timestamp="1618421973506">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1618159133066" />
-    <state width="1807" height="369" key="GridCell.Tab.0.center" timestamp="1618159133065">
+    <state width="1807" height="378" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1618421973506" />
+    <state width="1807" height="378" key="GridCell.Tab.0.center" timestamp="1618421973505">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1618159133065" />
-    <state width="1807" height="369" key="GridCell.Tab.0.left" timestamp="1618159133065">
+    <state width="1807" height="378" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1618421973505" />
+    <state width="1807" height="378" key="GridCell.Tab.0.left" timestamp="1618421973504">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1618159133065" />
-    <state width="1807" height="369" key="GridCell.Tab.0.right" timestamp="1618159133066">
+    <state width="1807" height="378" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1618421973504" />
+    <state width="1807" height="378" key="GridCell.Tab.0.right" timestamp="1618421973506">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1618159133066" />
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1618159133607">
+    <state width="1807" height="378" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1618421973506" />
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1618159677017">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1618159133607" />
-    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1618159133606">
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1618159677017" />
+    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1618159677017">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1618159133606" />
-    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1618159133606">
+    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1618159677017" />
+    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1618159677016">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1618159133606" />
-    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1618159133607">
+    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1618159677016" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1618159677017">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1618159133607" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1618159677017" />
     <state x="301" y="150" width="1380" height="804" key="new project wizard" timestamp="1617895435946">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -1324,11 +1308,6 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/Daily_Temperatures/Solution.java</url>
           <line>12</line>
           <option name="timeStamp" value="556" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/Partition_Equal_Subset_Sum/Solution.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="557" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
