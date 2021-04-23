@@ -62,9 +62,9 @@ public class Solution {
                 swap(nums, posOfLarge,i);
                 posOfLarge+=2;
                 i-=2;
-            }else if(nums[i] < median){
-                swap(nums,posOfSmall,i);
-                posOfMedian-=2;
+            }else if(nums[i] == median){
+                swap(nums,posOfMedian,i);
+                posOfMedian+=2;
             }
         }
 
