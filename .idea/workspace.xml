@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/SurfaceArea3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Soduko/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/DecryptPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/HotelConstruction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/MaximumSubarrayValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/UsernamesChange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,9 +69,9 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Main" />
+  <component name="RunManager" selected="Application.HotelConstruction">
+    <configuration name="DecryptPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.DecryptPassword" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -82,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Spiral_Matrix_II.Solution" />
+    <configuration name="HotelConstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.HotelConstruction" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.Spiral_Matrix_II.*" />
+          <option name="PATTERN" value="Codeforces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Spiral_Matrix.Solution" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Main" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.Spiral_Matrix.*" />
+          <option name="PATTERN" value="Codeforces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Third_Maximum_Number.Solution" />
+    <configuration name="UsernamesChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.UsernamesChange" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.Third_Maximum_Number.*" />
+          <option name="PATTERN" value="Codeforces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,19 +149,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (2)" />
-      <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.UsernamesChange" />
+      <item itemvalue="Application.DecryptPassword" />
+      <item itemvalue="Application.HotelConstruction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HotelConstruction" />
+        <item itemvalue="Application.DecryptPassword" />
+        <item itemvalue="Application.UsernamesChange" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +256,7 @@
       <workItem from="1619493603560" duration="4063000" />
       <workItem from="1628591964004" duration="3272000" />
       <workItem from="1629552840259" duration="8903000" />
-      <workItem from="1633003906446" duration="407000" />
+      <workItem from="1633003906446" duration="6444000" />
     </task>
     <servers />
   </component>
@@ -278,38 +279,38 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1807" height="369" key="GridCell.Tab.0.bottom" timestamp="1629563367051">
+    <state width="1807" height="394" key="GridCell.Tab.0.bottom" timestamp="1633013087943">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1629563367051" />
-    <state width="1807" height="369" key="GridCell.Tab.0.center" timestamp="1629563367047">
+    <state width="1807" height="394" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1633013087943" />
+    <state width="1807" height="394" key="GridCell.Tab.0.center" timestamp="1633013087942">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1629563367047" />
-    <state width="1807" height="369" key="GridCell.Tab.0.left" timestamp="1629563367045">
+    <state width="1807" height="394" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1633013087942" />
+    <state width="1807" height="394" key="GridCell.Tab.0.left" timestamp="1633013087941">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1629563367045" />
-    <state width="1807" height="369" key="GridCell.Tab.0.right" timestamp="1629563367049">
+    <state width="1807" height="394" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1633013087941" />
+    <state width="1807" height="394" key="GridCell.Tab.0.right" timestamp="1633013087942">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1629563367049" />
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1629563341601">
+    <state width="1807" height="394" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1633013087942" />
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1633012255076">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1629563341601" />
-    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1629563341599">
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1633012255076" />
+    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1633012255076">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1629563341599" />
-    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1629563341598">
+    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1633012255076" />
+    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1633012255076">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1629563341598" />
-    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1629563341600">
+    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1633012255076" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1633012255076">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1629563341600" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1633012255076" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
