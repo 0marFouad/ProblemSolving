@@ -3,38 +3,47 @@ package Leetcode.Three_Sum;
 import java.util.*;
 
 public class Solution {
-    public static List<List<Integer>> threeSum(int[] nums) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        List<List<Integer>> result = new ArrayList<>();
-        HashMap<List<Integer>,Integer> vis = new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            map.put(nums[i],i);
-        }
-        for(int i=0;i<nums.length-1;i++){
-            for(int j=i+1;j<nums.length;j++){
-                int first = nums[i];
-                int second = nums[j];
-                int third = - first - second;
 
-                if(map.get(third) != null && map.get(third) > j){
-                    List<Integer> ans = new ArrayList<>();
-                    ans.add(first);
-                    ans.add(second);
-                    ans.add(third);
-                    Collections.sort(ans);
-                    if(vis.get(ans) == null){
-                        result.add(ans);
-                        vis.put(ans,1);
+
+    public static List<List<Integer>> threeSum(int[] nums){
+        Arrays.sort(nums);
+        List<List<Integer>> solutions = new ArrayList<>();
+        for(int i=0;i<nums.length;i++){
+            if(i>0 && nums[i]==nums[i-1]){
+                continue;
+            }
+            int j = i+1;
+            int k = nums.length - 1;
+            while(j<k){
+                if(nums[i] + nums[j] + nums[k] == 0){
+                    List<Integer> res = new ArrayList<>();
+                    res.add(nums[i]);
+                    res.add(nums[j]);
+                    res.add(nums[k]);
+                    solutions.add(res);
+                    j++;
+                    while(j<nums.length && nums[j] == nums[j-1]){
+                        j++;
                     }
+                }else if(nums[i] + nums[j] + nums[k] > 0){
+                    k--;
+                }else{
+                    j++;
                 }
             }
         }
-        return result;
+        return solutions;
     }
+
 
     public static void main(String[] args){
         System.out.println("Omar");
-        int[] input = {0,0,0};
-        threeSum(input);
+        int[] input = {-2,0,1,1,2};
+        List<List<Integer>> res = threeSum(input);
+        for(int i=0;i<res.size();i++){
+            System.out.print(res.get(i).get(0) + " ");
+            System.out.print(res.get(i).get(1) + " ");
+            System.out.print(res.get(i).get(2) + "\n");
+        }
     }
 }

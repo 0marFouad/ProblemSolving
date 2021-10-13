@@ -20,11 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/DecryptPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/HotelConstruction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/MaximumSubarrayValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/UsernamesChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Binary_Search/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Encryption/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Middle_of_the_Linked_List/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Missing_Number/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Longest_Common_Prefix/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Longest_Common_Prefix/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Three_Sum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Three_Sum/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Word_Break/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Word_Break/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Longest_Common_Prefix/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Longest_Common_Prefix/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Three_Sum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Three_Sum/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Word_Break/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Word_Break/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +58,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -69,13 +76,13 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HotelConstruction">
-    <configuration name="DecryptPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.DecryptPassword" />
+  <component name="RunManager" selected="Application.solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Longest_Common_Prefix.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
+          <option name="PATTERN" value="Leetcode.Longest_Common_Prefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,25 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HotelConstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.HotelConstruction" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Three_Sum.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Main" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
+          <option name="PATTERN" value="Leetcode.Three_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +104,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Soduko.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Word_Break.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.Soduko.*" />
+          <option name="PATTERN" value="Leetcode.Word_Break.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +116,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsernamesChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.UsernamesChange" />
+    <configuration name="solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Binary_Search.solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
+          <option name="PATTERN" value="Leetcode.Binary_Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Encryption.solution" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.Encryption.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,19 +156,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.solution" />
       <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.UsernamesChange" />
-      <item itemvalue="Application.DecryptPassword" />
-      <item itemvalue="Application.HotelConstruction" />
+      <item itemvalue="Application.solution (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HotelConstruction" />
-        <item itemvalue="Application.DecryptPassword" />
-        <item itemvalue="Application.UsernamesChange" />
+        <item itemvalue="Application.solution (1)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.solution" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -257,6 +264,8 @@
       <workItem from="1628591964004" duration="3272000" />
       <workItem from="1629552840259" duration="8903000" />
       <workItem from="1633003906446" duration="6444000" />
+      <workItem from="1633710157778" duration="4666000" />
+      <workItem from="1634115308756" duration="14758000" />
     </task>
     <servers />
   </component>
@@ -279,38 +288,38 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1807" height="394" key="GridCell.Tab.0.bottom" timestamp="1633013087943">
+    <state width="1807" height="394" key="GridCell.Tab.0.bottom" timestamp="1634144303794">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1633013087943" />
-    <state width="1807" height="394" key="GridCell.Tab.0.center" timestamp="1633013087942">
+    <state width="1807" height="394" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1634144303794" />
+    <state width="1807" height="394" key="GridCell.Tab.0.center" timestamp="1634144303793">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1633013087942" />
-    <state width="1807" height="394" key="GridCell.Tab.0.left" timestamp="1633013087941">
+    <state width="1807" height="394" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1634144303793" />
+    <state width="1807" height="394" key="GridCell.Tab.0.left" timestamp="1634144303792">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1633013087941" />
-    <state width="1807" height="394" key="GridCell.Tab.0.right" timestamp="1633013087942">
+    <state width="1807" height="394" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1634144303792" />
+    <state width="1807" height="394" key="GridCell.Tab.0.right" timestamp="1634144303793">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1633013087942" />
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1633012255076">
+    <state width="1807" height="394" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1634144303793" />
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1634144045779">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1633012255076" />
-    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1633012255076">
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1634144045779" />
+    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1634144045778">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1633012255076" />
-    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1633012255076">
+    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1634144045778" />
+    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1634144045778">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1633012255076" />
-    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1633012255076">
+    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1634144045778" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1634144045779">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1633012255076" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1634144045779" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -359,11 +368,6 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/Longest_Substring_Without_Repeating_Characters/Solution.java</url>
           <line>13</line>
           <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/Longest_Common_Prefix/Solution.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Leetcode/LRU_Cache/LRUCache.java</url>
@@ -419,11 +423,6 @@
           <url>file://$PROJECT_DIR$/src/QuoraTask/Solution.java</url>
           <line>57</line>
           <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/Three_Sum/Solution.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Leetcode/Longest_Palindromic_Substring/Solution.java</url>
@@ -554,11 +553,6 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/Balanced_Binary_Tree/Solution.java</url>
           <line>17</line>
           <option name="timeStamp" value="131" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/Word_Break/Solution.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="133" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Leetcode/Symmetric_Tree/Solution.java</url>
@@ -1364,6 +1358,31 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/Soduko/Solution.java</url>
           <line>109</line>
           <option name="timeStamp" value="589" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Middle_of_the_Linked_List/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="593" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Longest_Common_Prefix/Solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="594" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Three_Sum/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="596" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Encryption/solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="599" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Binary_Search/solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="602" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
