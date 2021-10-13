@@ -20,17 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Binary_Search/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Encryption/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Middle_of_the_Linked_List/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Missing_Number/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/RotateArray/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/SquareOfSortedArray/solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Longest_Common_Prefix/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Longest_Common_Prefix/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Three_Sum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Three_Sum/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Word_Break/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Word_Break/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Longest_Common_Prefix/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Longest_Common_Prefix/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Three_Sum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Three_Sum/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Word_Break/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Word_Break/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,33 +68,7 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.solution (1)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Longest_Common_Prefix.Solution" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.Longest_Common_Prefix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Three_Sum.Solution" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.Three_Sum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.solution (3)">
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Word_Break.Solution" />
       <module name="ProblemSolving" />
@@ -122,6 +88,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Leetcode.Binary_Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.SquareOfSortedArray.solution" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.SquareOfSortedArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.RotateArray.solution" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.RotateArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +148,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.solution" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.solution (1)" />
+      <item itemvalue="Application.solution (2)" />
+      <item itemvalue="Application.solution (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution (3)" />
+        <item itemvalue="Application.solution (2)" />
         <item itemvalue="Application.solution (1)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.solution" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +257,7 @@
       <workItem from="1629552840259" duration="8903000" />
       <workItem from="1633003906446" duration="6444000" />
       <workItem from="1633710157778" duration="4666000" />
-      <workItem from="1634115308756" duration="14758000" />
+      <workItem from="1634115308756" duration="17390000" />
     </task>
     <servers />
   </component>
@@ -288,38 +280,38 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1807" height="394" key="GridCell.Tab.0.bottom" timestamp="1634144303794">
+    <state width="1807" height="369" key="GridCell.Tab.0.bottom" timestamp="1634146175176">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1634144303794" />
-    <state width="1807" height="394" key="GridCell.Tab.0.center" timestamp="1634144303793">
+    <state width="1807" height="369" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1634146175176" />
+    <state width="1807" height="369" key="GridCell.Tab.0.center" timestamp="1634146175175">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1634144303793" />
-    <state width="1807" height="394" key="GridCell.Tab.0.left" timestamp="1634144303792">
+    <state width="1807" height="369" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1634146175175" />
+    <state width="1807" height="369" key="GridCell.Tab.0.left" timestamp="1634146175175">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1634144303792" />
-    <state width="1807" height="394" key="GridCell.Tab.0.right" timestamp="1634144303793">
+    <state width="1807" height="369" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1634146175175" />
+    <state width="1807" height="369" key="GridCell.Tab.0.right" timestamp="1634146175176">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1634144303793" />
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1634144045779">
+    <state width="1807" height="369" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1634146175176" />
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1634146175634">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1634144045779" />
-    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1634144045778">
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1634146175634" />
+    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1634146175634">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1634144045778" />
-    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1634144045778">
+    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1634146175634" />
+    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1634146175633">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1634144045778" />
-    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1634144045779">
+    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1634146175633" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1634146175634">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1634144045779" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1634146175634" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1383,6 +1375,11 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/Binary_Search/solution.java</url>
           <line>6</line>
           <option name="timeStamp" value="602" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/SquareOfSortedArray/solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="603" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
