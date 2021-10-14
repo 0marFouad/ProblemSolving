@@ -38,7 +38,7 @@ public class Solution {
     }
 
     public static void main(String[] args){
-          String rev = reverseWords("    Omar         Fouad");
+          String rev = reverseWords("Let's take LeetCode contest");
           System.out.print(rev);
     }
 }
