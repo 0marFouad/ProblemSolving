@@ -20,23 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Combinations/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/FloodFill/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/LetterCasePermutation/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/MaxAreaofIsland/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/MergeTwoBinaryTrees/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/PermutationInString/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Permutations/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/PopulatingNextRightPointers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/ReverseLinkedList/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/ReverseWordsInString/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/RottingOranges/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/_01_Matrix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/BeautifulArrangement/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/BeautifulArrangementII/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/BoatsSavePeople/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Delete_and_Earn/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/LargestSquareAreaInMatrix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/MinimumNumberArrowsBurstBalloons/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Problem1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Problem2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Problem4/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/_123Pattern/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Longest_Substring_Without_Repeating_Characters/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Longest_Substring_Without_Repeating_Characters/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Reverse_Words_in_a_String/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Reverse_Words_in_a_String/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Longest_Substring_Without_Repeating_Characters/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Longest_Substring_Without_Repeating_Characters/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Reverse_Words_in_a_String/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Reverse_Words_in_a_String/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Longest_Palindromic_Substring/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Longest_Palindromic_Substring/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Longest_Palindromic_Substring/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Longest_Palindromic_Substring/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +70,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DS_ALG" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -82,26 +78,13 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.RottingOranges.Solution" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.RottingOranges.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TrianglzProblem2">
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.ReverseLinkedList.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Problem4.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.ReverseLinkedList.*" />
+          <option name="PATTERN" value="Leetcode.Problem4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,24 +93,11 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Combinations.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Problem3.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.Combinations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Permutations.Solution" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.Permutations.*" />
+          <option name="PATTERN" value="Leetcode.Problem3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +106,37 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.LetterCasePermutation.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Cegedim1.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.LetterCasePermutation.*" />
+          <option name="PATTERN" value="Leetcode.Cegedim1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrianglzProblem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.TrianglzProblem1" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrianglzProblem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.TrianglzProblem2" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,19 +158,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.TrianglzProblem1" />
+      <item itemvalue="Application.TrianglzProblem2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TrianglzProblem2" />
+        <item itemvalue="Application.TrianglzProblem1" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +267,11 @@
       <workItem from="1629552840259" duration="8903000" />
       <workItem from="1633003906446" duration="6444000" />
       <workItem from="1633710157778" duration="4666000" />
-      <workItem from="1634115308756" duration="47250000" />
+      <workItem from="1634115308756" duration="51634000" />
+      <workItem from="1634291883491" duration="22619000" />
+      <workItem from="1634511440434" duration="3640000" />
+      <workItem from="1634571692297" duration="2316000" />
+      <workItem from="1635503627625" duration="721000" />
     </task>
     <servers />
   </component>
@@ -294,38 +294,42 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1807" height="394" key="GridCell.Tab.0.bottom" timestamp="1634239989329">
+    <state width="1807" height="369" key="GridCell.Tab.0.bottom" timestamp="1634607348836">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1634239989329" />
-    <state width="1807" height="394" key="GridCell.Tab.0.center" timestamp="1634239989328">
+    <state width="1807" height="369" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348836" />
+    <state width="1807" height="369" key="GridCell.Tab.0.center" timestamp="1634607348836">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1634239989328" />
-    <state width="1807" height="394" key="GridCell.Tab.0.left" timestamp="1634239989327">
+    <state width="1807" height="369" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348836" />
+    <state width="1807" height="369" key="GridCell.Tab.0.left" timestamp="1634607348836">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1634239989327" />
-    <state width="1807" height="394" key="GridCell.Tab.0.right" timestamp="1634239989328">
+    <state width="1807" height="369" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348836" />
+    <state width="1807" height="369" key="GridCell.Tab.0.right" timestamp="1634607348836">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="394" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1634239989328" />
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1634235557590">
+    <state width="1807" height="369" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348836" />
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1634607348837">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1634235557590" />
-    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1634235557588">
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348837" />
+    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1634607348837">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1634235557588" />
-    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1634235557588">
+    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348837" />
+    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1634607348837">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1634235557588" />
-    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1634235557589">
+    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348837" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1634607348837">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1634235557589" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348837" />
+    <state x="485" y="175" width="1016" height="738" key="SettingsEditor" timestamp="1635504823476">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="485" y="175" width="1016" height="738" key="SettingsEditor/67.27.1853.1052@67.27.1853.1052" timestamp="1635504823476" />
     <state x="656" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1634214748450">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -436,13 +440,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Leetcode/Longest_Palindromic_Substring/Solution.java</url>
-          <line>27</line>
+          <line>43</line>
           <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/Longest_Palindromic_Substring/Solution.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Leetcode/Complex_Number_Multiplication/Solution.java</url>
@@ -1433,6 +1432,56 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/Combinations/Solution.java</url>
           <line>8</line>
           <option name="timeStamp" value="638" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/LetterCasePermutation/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="642" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/BeautifulArrangement/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="644" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/BeautifulArrangementII/Solution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="646" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/BoatsSavePeople/Solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="647" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/MinimumNumberArrowsBurstBalloons/Solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="652" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/_123Pattern/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="657" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Delete_and_Earn/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="659" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Problem1/Solution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="660" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Problem2/Solution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="662" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Problem4/Solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="666" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />

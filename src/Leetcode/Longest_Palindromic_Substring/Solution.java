@@ -4,37 +4,47 @@ public class Solution {
 
     public static String longestPalindrome(String s) {
         boolean[][] grid = new boolean[s.length()][s.length()];
-        if(s.equals("")){
-            return s;
-        }
-        String result = s.substring(0,1);
+        int max = 0;
+        int startRes = -1;
         for(int i=0;i<s.length();i++){
             grid[i][i] = true;
-        }
-
-        for(int i=0;i<s.length()-1;i++){
-            if(s.charAt(i)==s.charAt(i+1)){
-                grid[i][i+1] = true;
-                result = s.substring(i,i+2);
+            if(max < 1){
+                max = 1;
+                startRes = i;
             }
         }
 
-        for(int k=3;k<=s.length();k++){
-            for(int i=0;i<s.length()-k+1;i++){
-                int j = i + k - 1;
-                if(grid[i+1][j-1] && s.charAt(i) == s.charAt(j)){
-                    grid[i][j] = true;
-                    if(k > result.length()){
-                        result = s.substring(i,j+1);
+        for(int i=1;i<s.length();i++){
+            if(s.charAt(i-1) == s.charAt(i)){
+                grid[i-1][i] = true;
+                if(max < 2){
+                    max = 2;
+                    startRes = i-1;
+                }
+            }
+        }
+
+        int gap = 2;
+        for(int i=gap;i<s.length();i++){
+            for(int j=0;j+i<s.length();j++){
+                if(grid[j+1][j+i-1] && s.charAt(j) == s.charAt(j+i)){
+                    grid[j][j+i] = true;
+                    if(max < i+1){
+                        max = i+1;
+                        startRes = j;
                     }
                 }
             }
         }
-        return result;
+        StringBuilder res = new StringBuilder();
+        for(int i=startRes;i<startRes+max;i++){
+            res.append(s.charAt(i));
+        }
+        return res.toString();
     }
 
     public static void main(String[] args){
-        System.out.println(longestPalindrome("ccc"));
+        System.out.println(longestPalindrome("aaaa"));
     }
 
 }

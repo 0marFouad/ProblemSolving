@@ -1,0 +1,11 @@
+public static boolean isVisited(int visited, int bit){
+	return ((1 << (bit - 1)) & visited) != 0;
+}
+
+public static int visit(int visited, int bit){
+        return (visited ^ (1 << (bit-1)));
+}
+
+public static int unvisit(int visited, int bit){
+        return (visited ^ (1 << (bit-1)));
+}
