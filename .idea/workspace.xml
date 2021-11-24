@@ -20,19 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/BeautifulArrangement/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/BeautifulArrangementII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/BoatsSavePeople/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Delete_and_Earn/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/LargestSquareAreaInMatrix/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/MinimumNumberArrowsBurstBalloons/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Problem1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Problem2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Problem4/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/_123Pattern/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/CountSubmatricesWithAllOnes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Largest_Rectangle_in_Histogram/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Longest_Palindromic_Substring/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Longest_Palindromic_Substring/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Longest_Palindromic_Substring/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Longest_Palindromic_Substring/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid4773.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/TrianglzProblem1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Codeforces/TrianglzProblem2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Jump_Game_II/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Jump_Game_II/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Problem1/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Problem2/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemSolving/Leetcode/Problem4/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Jump_Game/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Jump_Game/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Jump_Game_II/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Jump_Game_II/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +77,39 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TrianglzProblem2">
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Problem4.Solution" />
+  <component name="RunManager" selected="Application.Solution (4)">
+    <configuration name="MinimumNumberOfJumps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Geeks4Geeks.MinimumNumberOfJumps" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.Problem4.*" />
+          <option name="PATTERN" value="Geeks4Geeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.CountSubmatricesWithAllOnes.Solution" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.CountSubmatricesWithAllOnes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Largest_Rectangle_in_Histogram.Solution" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.Largest_Rectangle_in_Histogram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +118,11 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Problem3.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Jump_Game.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.Problem3.*" />
+          <option name="PATTERN" value="Leetcode.Jump_Game.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,37 +131,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Cegedim1.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Jump_Game_II.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.Cegedim1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TrianglzProblem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.TrianglzProblem1" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TrianglzProblem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.TrianglzProblem2" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
+          <option name="PATTERN" value="Leetcode.Jump_Game_II.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,19 +157,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.MinimumNumberOfJumps" />
       <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.TrianglzProblem1" />
-      <item itemvalue="Application.TrianglzProblem2" />
+      <item itemvalue="Application.Solution (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TrianglzProblem2" />
-        <item itemvalue="Application.TrianglzProblem1" />
-        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.MinimumNumberOfJumps" />
+        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +270,13 @@
       <workItem from="1634291883491" duration="22619000" />
       <workItem from="1634511440434" duration="3640000" />
       <workItem from="1634571692297" duration="2316000" />
-      <workItem from="1635503627625" duration="721000" />
+      <workItem from="1635503627625" duration="1461000" />
+      <workItem from="1637156976839" duration="675000" />
+      <workItem from="1637240938832" duration="598000" />
+      <workItem from="1637358619853" duration="6147000" />
+      <workItem from="1637493704756" duration="3218000" />
+      <workItem from="1637590030740" duration="5892000" />
+      <workItem from="1637724116102" duration="1356000" />
     </task>
     <servers />
   </component>
@@ -294,38 +299,38 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1807" height="369" key="GridCell.Tab.0.bottom" timestamp="1634607348836">
+    <state width="1807" height="302" key="GridCell.Tab.0.bottom" timestamp="1637725325970">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348836" />
-    <state width="1807" height="369" key="GridCell.Tab.0.center" timestamp="1634607348836">
+    <state width="1807" height="302" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1637725325970" />
+    <state width="1807" height="302" key="GridCell.Tab.0.center" timestamp="1637725325969">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348836" />
-    <state width="1807" height="369" key="GridCell.Tab.0.left" timestamp="1634607348836">
+    <state width="1807" height="302" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1637725325969" />
+    <state width="1807" height="302" key="GridCell.Tab.0.left" timestamp="1637725325969">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348836" />
-    <state width="1807" height="369" key="GridCell.Tab.0.right" timestamp="1634607348836">
+    <state width="1807" height="302" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1637725325969" />
+    <state width="1807" height="302" key="GridCell.Tab.0.right" timestamp="1637725325970">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348836" />
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1634607348837">
+    <state width="1807" height="302" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1637725325970" />
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1637724813279">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348837" />
-    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1634607348837">
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1637724813279" />
+    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1637724813279">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348837" />
-    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1634607348837">
+    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1637724813279" />
+    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1637724813279">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348837" />
-    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1634607348837">
+    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1637724813279" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1637724813279">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1634607348837" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1637724813279" />
     <state x="485" y="175" width="1016" height="738" key="SettingsEditor" timestamp="1635504823476">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -1482,6 +1487,21 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/Problem4/Solution.java</url>
           <line>19</line>
           <option name="timeStamp" value="666" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Jump_Game_II/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="672" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Largest_Rectangle_in_Histogram/Solution.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="673" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Largest_Rectangle_in_Histogram/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="674" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />

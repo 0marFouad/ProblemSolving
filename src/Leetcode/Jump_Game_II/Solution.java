@@ -1,20 +1,34 @@
 package Leetcode.Jump_Game_II;
 
+import java.util.HashMap;
+
 class Solution {
-    public int jump(int[] nums) {
-        int dp[] = new int[nums.length];
-        for(int i=0;i<nums.length;i++){
-            dp[i] = Integer.MAX_VALUE;
+    public static int jump(int[] nums) {
+        if(nums.length <= 1){
+            return 0;
         }
-        dp[nums.length - 1] = 0;
-        for(int i=nums.length-2;i>=0;i--){
-            for(int j=1;j<=nums[i]&&i+j<nums.length;j++){
-                if(dp[i+j] == Integer.MAX_VALUE){
-                    continue;
-                }
-                dp[i] = Math.min(dp[i],1+dp[i+j]);
+        if(nums[0] >= nums.length){
+            return 1;
+        }
+        int levlen = nums[0];
+        int maxReach = nums[0];
+        int curlev = 1;
+        int counter = 0;
+        for(int i=1;i<nums.length;i++){
+            while(counter < levlen){
+                maxReach = Math.max(maxReach,Math.min(i+counter+nums[i+counter],nums.length-1));
+                counter++;
             }
+            i += levlen-1;
+            levlen = maxReach - i;
+            counter = 0;
+            curlev++;
         }
-        return dp[0];
+        return curlev - 1;
+    }
+
+    public static void main(String[] args){
+        int[] arr = {2,3,0,1,4};
+        System.out.println(jump(arr));
     }
 }

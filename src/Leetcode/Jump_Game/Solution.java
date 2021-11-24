@@ -20,7 +20,7 @@ public class Solution {
     }
 
     public static void main(String[] args){
-        int[] tst = {3,2,1,0,4};
+        int[] tst = {2,3,0,1,4};
         System.out.println(canJump(tst));
     }
 }
