@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00e0ca8d-94be-44fc-bf8e-3834d4772b11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Gas_Station/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/First_Missing_Positive/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,13 +67,13 @@
       <recent name="Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="MinimumNumberOfJumps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Geeks4Geeks.MinimumNumberOfJumps" />
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Gas_Station.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Geeks4Geeks.*" />
+          <option name="PATTERN" value="Leetcode.Gas_Station.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Gas_Station.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.First_Missing_Positive.Solution" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.Gas_Station.*" />
+          <option name="PATTERN" value="Leetcode.First_Missing_Positive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,33 +133,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.MinimumNumberOfJumps" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.MinimumNumberOfJumps" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +266,8 @@
       <workItem from="1637590030740" duration="5892000" />
       <workItem from="1637724116102" duration="1356000" />
       <workItem from="1638455228518" duration="690000" />
-      <workItem from="1638775319019" duration="2118000" />
+      <workItem from="1638775319019" duration="2262000" />
+      <workItem from="1639826764601" duration="1280000" />
     </task>
     <servers />
   </component>
@@ -291,38 +290,38 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1807" height="369" key="GridCell.Tab.0.bottom" timestamp="1638776837796">
+    <state width="1807" height="369" key="GridCell.Tab.0.bottom" timestamp="1639828184068">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1638776837796" />
-    <state width="1807" height="369" key="GridCell.Tab.0.center" timestamp="1638776837796">
+    <state width="1807" height="369" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1639828184068" />
+    <state width="1807" height="369" key="GridCell.Tab.0.center" timestamp="1639828184066">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1638776837796" />
-    <state width="1807" height="369" key="GridCell.Tab.0.left" timestamp="1638776837795">
+    <state width="1807" height="369" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1639828184066" />
+    <state width="1807" height="369" key="GridCell.Tab.0.left" timestamp="1639828184065">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1638776837795" />
-    <state width="1807" height="369" key="GridCell.Tab.0.right" timestamp="1638776837796">
+    <state width="1807" height="369" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1639828184065" />
+    <state width="1807" height="369" key="GridCell.Tab.0.right" timestamp="1639828184067">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1638776837796" />
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1638776837797">
+    <state width="1807" height="369" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1639828184067" />
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom" timestamp="1639828184387">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1638776837797" />
-    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1638776837796">
+    <state width="1807" height="369" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1639828184387" />
+    <state width="1807" height="369" key="GridCell.Tab.1.center" timestamp="1639828184386">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1638776837796" />
-    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1638776837796">
+    <state width="1807" height="369" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1639828184386" />
+    <state width="1807" height="369" key="GridCell.Tab.1.left" timestamp="1639828184386">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1638776837796" />
-    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1638776837797">
+    <state width="1807" height="369" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1639828184386" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right" timestamp="1639828184387">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
-    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1638776837797" />
+    <state width="1807" height="369" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1639828184387" />
     <state x="485" y="175" width="1016" height="738" key="SettingsEditor" timestamp="1635504823476">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
@@ -1497,8 +1496,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Leetcode/Gas_Station/Solution.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="678" />
+          <line>10</line>
+          <option name="timeStamp" value="679" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/First_Missing_Positive/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="680" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
